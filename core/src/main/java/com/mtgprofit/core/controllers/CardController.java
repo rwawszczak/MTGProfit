@@ -1,7 +1,7 @@
 package com.mtgprofit.core.controllers;
 
 import com.mtgprofit.core.model.CardsProfit;
-import com.mtgprofit.core.model.Profitable;
+import com.mtgprofit.core.model.CardsRetriever;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -17,11 +17,11 @@ import java.util.List;
 public class CardController {
 
     @Autowired
-    Profitable profitable;
+    CardsRetriever cardsRetriever;
 
     @RequestMapping("/cards")
     public List<CardsProfit> cards(@RequestParam(value="amount", defaultValue="50") int amount)
     {
-        return profitable.getTopCards(amount);
+        return cardsRetriever.getTopCards(amount);
     }
 }

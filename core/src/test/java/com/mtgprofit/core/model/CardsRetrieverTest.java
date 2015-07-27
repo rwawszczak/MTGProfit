@@ -7,15 +7,15 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-public class ProfitableTest {
+public class CardsRetrieverTest {
 
-    Profitable profitable = new Profitable();
+    CardsRetriever cardsRetriever = new CardsRetriever();
 
     private static final int AMOUNT = 5;
 
     @Test
     public void shouldReturnTopNCards() throws Exception {
-        List<CardsProfit> cardsProfits = profitable.getTopCards(AMOUNT);
+        List<CardsProfit> cardsProfits = cardsRetriever.getTopCards(AMOUNT);
 
         assertEquals(AMOUNT, cardsProfits.size());
         for(int i=0; i< cardsProfits.size()-1;i++){

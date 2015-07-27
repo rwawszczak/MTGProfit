@@ -10,7 +10,7 @@ import java.util.List;
  * Created by wawszcza on 7/24/2015.
  */
 @Component
-public class Profitable {
+public class CardsRetriever {
 
     public List<CardsProfit> getTopCards(int amount) {
         List<CardsProfit> cardsProfits = new ArrayList<CardsProfit>();
