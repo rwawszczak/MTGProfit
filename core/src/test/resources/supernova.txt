@@ -1,0 +1,1954 @@
+REGULAR CARD PRICES
+
+To search for a card type control+f
+Cheapest items are not listed for convenience and their buy/sell price is 0.005/0.010.
+Bot accounts: Cs:ComparePrices, bs:bifidus, mr:mteamtester, p2:pisiiki2, p3:pisiiki3, s1:supernova01, s2:supernova02, t6:tina16
+
+Name                                      Buy       Sell      Bot Account[Stock Available]
+
+=== Dragons of Tarkir === [Total Buy/Sell Value: 56/62] ===========================================
+
+Dragonlord Ojutai [DTK]                   9.85      10.6      Cs[1] bs[1] p2[3] s1[3] s2[2] 
+Deathmist Raptor [DTK]                    8.75                
+Narset Transcendent [DTK]                 4.8                 
+Dragonlord Atarka [DTK]                   4.55                
+Dragonlord Silumgar [DTK]                 3.6       3.95      bs[1] p2[2] p3[1] s1[1] t6[2] 
+Sarkhan Unbroken [DTK]                    2.8                 
+Collected Company [DTK]                   2.25                
+Dragonlord Dromoka [DTK]                  1.78                
+Thunderbreak Regent [DTK]                 1.76                
+Dromoka's Command [DTK]                   1.52                
+Shorecrasher Elemental [DTK]              1.44                
+Dragon Whisperer [DTK]                    1.22      1.4       Cs[2] bs[1] p3[2] s2[1] t6[1] 
+Den Protector [DTK]                       1.2                 
+Ojutai Exemplars [DTK]                    1.14      1.3       bs[2] s1[1] t6[1] 
+Dragonlord Kolaghan [DTK]                 1.02      1.16      Cs[2] p2[3] p3[2] 
+Atarka's Command [DTK]                    1                   
+Risen Executioner [DTK]                   0.77      0.88      mr[1] p3[1] t6[2] 
+Kolaghan's Command [DTK]                  0.68                
+Shaman of Forgotten Ways [DTK]            0.67                
+Zurgo Bellstriker [DTK]                   0.61                
+Secure the Wastes [DTK]                   0.41                
+Anafenza, Kin-Tree Spirit [DTK]           0.32      0.48      t6[1] 
+Haven of the Spirit Dragon [DTK]          0.3       0.45      mr[1] 
+Stratus Dancer [DTK]                      0.27                
+Clone Legion [DTK]                        0.23      0.34      bs[1] p3[1] 
+Surrak, the Hunt Caller [DTK]             0.19                
+Hidden Dragonslayer [DTK]                 0.19                
+Descent of the Dragons [DTK]              0.14                
+Avatar of the Resolute [DTK]              0.14      0.23      bs[2] mr[1] p2[4] p3[1] s1[1] t6[1] 
+Icefall Regent [DTK]                      0.13                
+Sidisi, Undead Vizier [DTK]               0.12                
+Ojutai's Command [DTK]                    0.09                
+Myth Realized [DTK]                                 0.14      Cs[2] bs[1] mr[1] p2[2] p3[1] s1[2] s2[2] t6[1] 
+Arashin Foremost [DTK]                    0.042               
+Assault Formation [DTK]                   0.036     0.06      p2[4] 
+Blood-Chin Fanatic [DTK]                  0.026               
+Silumgar's Command [DTK]                  0.018               
+Pitiless Horde [DTK]                      0.012     0.02      bs[1] p2[4] 
+Dragonlord's Prerogative [DTK]            0.008     0.016     bs[4] p2[4] 
+Radiant Purge [DTK]                       0.008     0.014     bs[1] mr[1] p2[2] t6[2] 
+Ire Shaman [DTK]                          0.008     0.014     bs[3] mr[1] p2[4] 
+
+=== Fate Reforged === [Total Buy/Sell Value: 34/38] ===============================================
+
+Ugin, the Spirit Dragon [FRF]             7.65                
+Monastery Mentor [FRF]                    7.65                
+Whisperwood Elemental [FRF]               5.6       6.05      bs[1] p2[1] s1[3] 
+Soulfire Grand Master [FRF]               4.3                 
+Tasigur, the Golden Fang [FRF]            3.3                 
+Warden of the First Tree [FRF]            1.76                
+Outpost Siege [FRF]                       0.67                
+Shaman of the Great Hunt [FRF]            0.66      0.76      bs[1] p3[4] s2[1] t6[1] 
+Brutal Hordechief [FRF]                   0.62      0.72      bs[1] mr[1] s2[1] t6[1] 
+Crux of Fate [FRF]                        0.57                
+Torrent Elemental [FRF]                   0.28      0.43      Cs[2] bs[2] p3[1] s1[1] t6[1] 
+Temporal Trespass [FRF]                   0.24      0.36      Cs[2] s1[2] s2[4] 
+Mardu Strike Leader [FRF]                 0.15      0.25      p2[2] 
+Ghastly Conscription [FRF]                0.12      0.21      p3[1] 
+Flamewake Phoenix [FRF]                             0.1       Cs[1] bs[2] mr[2] p2[2] p3[1] s1[1] s2[1] t6[2] 
+Monastery Siege [FRF]                     0.05                
+Mastery of the Unseen [FRF]                         0.06      bs[3] mr[2] p2[3] p3[1] s1[1] t6[2] 
+Soulflayer [FRF]                          0.016     0.028     bs[1] p2[1] p3[1] 
+Alesha, Who Smiles at Death [FRF]         0.014     0.022     p2[2] 
+Yasova Dragonclaw [FRF]                   0.012     0.02      bs[1] p2[3] t6[1] 
+Palace Siege [FRF]                        0.006               
+
+=== Khans of Tarkir === [Total Buy/Sell Value: 57/65] =============================================
+
+Sorin, Solemn Visitor [KTK]               8.05      8.7       bs[1] 
+Polluted Delta [KTK]                      5.3                 
+Wingmate Roc [KTK]                        4.6                 
+Flooded Strand [KTK]                      4.4                 
+Sarkhan, the Dragonspeaker [KTK]          4.35      4.75      Cs[1] mr[1] 
+Windswept Heath [KTK]                     3.3                 
+Anafenza, the Foremost [KTK]              3.1                 
+Bloodstained Mire [KTK]                   2.95                
+Wooded Foothills [KTK]                    2.9                 
+Ashcloud Phoenix [KTK]                    2.6       2.95      bs[1] 
+Sidisi, Brood Tyrant [KTK]                2.3                 
+Dig Through Time [KTK]                    1.72                
+Siege Rhino [KTK]                         1.62                
+Clever Impersonator [KTK]                 1.34                
+Surrak Dragonclaw [KTK]                   0.88                
+Hooded Hydra [KTK]                        0.86                
+Pearl Lake Ancient [KTK]                  0.82                
+See the Unwritten [KTK]                   0.71                
+Empty the Pits [KTK]                      0.64                
+Narset, Enlightened Master [KTK]          0.55                
+Zurgo Helmsmasher [KTK]                   0.43                
+Ugin's Nexus [KTK]                        0.29                
+Bloodsoaked Champion [KTK]                0.24                
+Jeskai Ascendancy [KTK]                   0.21                
+End Hostilities [KTK]                     0.15                
+Monastery Swiftspear [KTK]                0.1                 
+Utter End [KTK]                           0.075               
+Rakshasa Deathdealer [KTK]                0.07      0.11      Cs[2] bs[2] mr[1] p2[2] p3[1] t6[1] 
+Mantis Rider [KTK]                        0.06                
+Rattleclaw Mystic [KTK]                   0.06                
+Savage Knuckleblade [KTK]                 0.055     0.09      bs[1] mr[1] p2[2] t6[1] 
+Crackling Doom [KTK]                      0.036               
+Crater's Claws [KTK]                      0.036               
+Butcher of the Horde [KTK]                0.03      0.05      bs[3] s2[1] 
+Hardened Scales [KTK]                     0.014               
+Deflecting Palm [KTK]                     0.01      0.018     mr[1] 
+
+=== Vintage Masters === [Total Buy/Sell Value: 363/387] ===========================================
+
+Black Lotus [VMA]                         84.75               
+Mox Sapphire [VMA]                        30.5                
+Ancestral Recall [VMA]                    29        30.2      Cs[2] mr[1] 
+Mox Jet [VMA]                             22.7      24.2      mr[1] 
+Force of Will [VMA]                       22        23.5      p2[4] p3[1] s1[1] s2[1] t6[1] 
+Time Walk [VMA]                           18.7                
+Mox Ruby [VMA]                            16.2                
+Mox Emerald [VMA]                         13.8                
+Volcanic Island [VMA]                     12.7      13.5      Cs[3] bs[1] mr[1] p3[3] t6[1] 
+Mox Pearl [VMA]                           12.45               
+Jace, the Mind Sculptor [VMA]             12.05     12.85     Cs[1] mr[2] 
+Underground Sea [VMA]                     11.35     12.25     Cs[1] mr[1] 
+Timetwister [VMA]                         10.5      11.35     Cs[1] s1[1] t6[1] 
+Dack Fayden [VMA]                         7.75      8.35      Cs[4] p2[1] p3[1] 
+Tundra [VMA]                              7.4       8         bs[2] 
+Lion's Eye Diamond [VMA]                  6.8       7.35      Cs[4] s1[1] 
+Tropical Island [VMA]                     5.8       6.25      p2[1] 
+Mana Drain [VMA]                          5                   
+Mishra's Workshop [VMA]                   4.5                 
+Bayou [VMA]                               3.35      3.7       Cs[1] p2[2] 
+Savannah [VMA]                            1.88      2.1       bs[1] mr[1] p2[2] p3[1] 
+Flusterstorm [VMA]                        1.8                 
+Bazaar of Baghdad [VMA]                   1.78                
+Badlands [VMA]                            1.56                
+Scrubland [VMA]                           1.44      1.62      p2[4] 
+Taiga [VMA]                               1.36      1.56      bs[1] s1[4] 
+Demonic Tutor [VMA]                       1.18                
+Mana Crypt [VMA]                          1.14                
+Plateau [VMA]                             1.1                 
+Tolarian Academy [VMA]                    0.87      1         bs[1] p3[1] 
+Ancient Tomb [VMA]                        0.75                
+Yawgmoth's Will [VMA]                     0.59      0.67      p2[4] 
+Oath of Druids [VMA]                      0.51                
+Vampiric Tutor [VMA]                      0.47                
+Library of Alexandria [VMA]               0.44                
+Null Rod [VMA]                            0.38                
+Time Vault [VMA]                          0.32      0.48      mr[1] 
+Council's Judgment [VMA]                  0.3                 
+Baleful Strix [VMA]                       0.27                
+Sol Ring [VMA]                            0.2       0.3       bs[2] 
+Sylvan Library [VMA]                      0.17                
+Fastbond [VMA]                            0.17                
+Burning Wish [VMA]                        0.15      0.25      Cs[4] bs[1] p2[2] p3[1] t6[1] 
+Marchesa, the Black Rose [VMA]            0.12      0.21      Cs[1] bs[4] 
+Ichorid [VMA]                             0.11                
+Memory Jar [VMA]                          0.11      0.18      Cs[3] bs[4] 
+Skullclamp [VMA]                          0.1       0.16      bs[4] p2[4] 
+Strip Mine [VMA]                          0.1                 
+Wheel of Fortune [VMA]                    0.095               
+Sulfuric Vortex [VMA]                     0.085               
+Mana Vault [VMA]                          0.08                
+Balance [VMA]                             0.05                
+Coercive Portal [VMA]                     0.048               
+Armageddon [VMA]                          0.048               
+Sphere of Resistance [VMA]                0.044               
+Eureka [VMA]                              0.044               
+Scourge of the Throne [VMA]               0.034     0.055     mr[2] s1[1] 
+Berserk [VMA]                             0.028               
+Upheaval [VMA]                            0.028               
+Goblin Piledriver [VMA]                   0.024               
+Survival of the Fittest [VMA]             0.024               
+Yawgmoth's Bargain [VMA]                  0.024               
+Regrowth [VMA]                            0.022     0.034     Cs[1] 
+Goblin Lackey [VMA]                       0.018               
+Channel [VMA]                             0.018               
+Edric, Spymaster of Trest [VMA]           0.014     0.024     Cs[1] 
+Necropotence [VMA]                        0.014     0.024     Cs[3] 
+Rofellos, Llanowar Emissary [VMA]         0.014     0.022     s2[1] 
+Morphling [VMA]                           0.012               
+Gamble [VMA]                              0.012               
+Cursed Scroll [VMA]                       0.012     0.02      bs[1] mr[2] p3[1] s1[1] t6[1] 
+City in a Bottle [VMA]                    0.012               
+Spiritmonger [VMA]                        0.01      0.018     mr[1] s1[1] 
+Muzzio, Visionary Architect [VMA]         0.01                
+Chaos Warp [VMA]                          0.01      0.016     Cs[1] 
+Smokestack [VMA]                          0.01      0.016     Cs[4] bs[1] p2[2] t6[1] 
+Nevinyrral's Disk [VMA]                   0.01                
+Brago, King Eternal [VMA]                 0.008     0.014     t6[1] 
+Yavimaya Hollow [VMA]                     0.008     0.014     bs[2] mr[1] 
+Kjeldoran Outpost [VMA]                   0.008               
+
+=== Magic 2015 === [Total Buy/Sell Value: 58/66] ==================================================
+
+Nissa, Worldwaker [M15]                   7.85      8.45      mr[2] p2[1] s1[1] s2[1] 
+Goblin Rabblemaster [M15]                 6.8       7.35      s1[2] 
+Perilous Vault [M15]                      6.2       6.65      mr[1] p2[1] 
+Ajani Steadfast [M15]                     3.95      4.25      mr[1] 
+Llanowar Wastes [M15]                     2.9       3.15      mr[2] p3[1] s2[1] t6[2] 
+Chandra, Pyromaster [M15]                 2.75      3.1       s1[1] 
+Garruk, Apex Predator [M15]               2.7       3.05      Cs[1] mr[1] p2[1] 
+Sengir Vampire [M15]                      2.4                 
+Caves of Koilos [M15]                               2.5       mr[3] s1[4] t6[4] 
+Shivan Reef [M15]                         2         2.25      mr[3] 
+Urborg, Tomb of Yawgmoth [M15]            1.94                
+Liliana Vess [M15]                        1.8                 
+Stoke the Flames [M15]                    1.72                
+Jace, the Living Guildpact [M15]          1.42      1.6       s1[1] 
+Battlefield Forge [M15]                             1.56      Cs[2] bs[1] mr[2] p2[1] p3[1] s1[1] t6[4] 
+Soul of New Phyrexia [M15]                0.93                
+Yavimaya Coast [M15]                      0.82                
+Sliver Hivelord [M15]                     0.55                
+Hornet Nest [M15]                         0.53                
+Chord of Calling [M15]                    0.52                
+Soul of Innistrad [M15]                   0.4       0.47      t6[3] 
+Soul of Zendikar [M15]                    0.3                 
+Soul of Theros [M15]                      0.3                 
+Soul of Shandalar [M15]                   0.27      0.4       Cs[2] bs[1] 
+Hornet Queen [M15]                        0.25      0.38      mr[2] 
+Genesis Hydra [M15]                       0.25                
+Waste Not [M15]                           0.24                
+Soul of Ravnica [M15]                     0.23                
+Chasm Skulker [M15]                       0.23      0.34      Cs[1] mr[1] p2[1] s2[1] 
+The Chain Veil [M15]                      0.17                
+Ætherspouts [M15]                         0.17                
+Obelisk of Urd [M15]                      0.09                
+Hushwing Gryff [M15]                      0.075               
+Scuttling Doom Engine [M15]               0.075               
+Phyrexian Revoker [M15]                   0.06                
+Reclamation Sage [M15]                    0.048               
+Spirit Bonds [M15]                        0.04      0.06      bs[1] 
+Return to the Ranks [M15]                 0.038               
+Sliver Hive [M15]                         0.036               
+Polymorphist's Jest [M15]                 0.032     0.05      bs[1] mr[3] p2[1] p3[1] s1[2] s2[1] t6[2] 
+Life's Legacy [M15]                       0.024               
+Preeminent Captain [M15]                  0.02      0.032     mr[2] p2[4] 
+Spectra Ward [M15]                        0.016     0.028     Cs[2] mr[1] p2[1] 
+Chief Engineer [M15]                      0.016               
+Necromancer's Stockpile [M15]             0.014     0.024     p2[1] t6[1] 
+Grindclock [M15]                          0.014     0.024     Cs[1] mr[1] p3[1] 
+Illusory Angel [M15]                      0.014     0.024     Cs[1] p3[1] 
+Yisan, the Wanderer Bard [M15]            0.014     0.022     mr[1] 
+Stain the Mind [M15]                      0.012               
+Terra Stomper [M15]                       0.01      0.018     Cs[3] 
+Ob Nixilis, Unshackled [M15]              0.01      0.016     bs[1] p3[1] s2[1] 
+Resolute Archangel [M15]                  0.008     0.014     bs[1] mr[2] s1[1] 
+Indulgent Tormentor [M15]                 0.008               
+
+=== Journey into Nyx === [Total Buy/Sell Value: 36/40] ============================================
+
+Mana Confluence [JOU]                     5.5                 
+Temple of Malady [JOU]                    4.4                 
+Eidolon of the Great Revel [JOU]          4.1                 
+Keranos, God of Storms [JOU]              3.85                
+Ajani, Mentor of Heroes [JOU]             3.35                
+Temple of Epiphany [JOU]                  2.6                 
+Athreos, God of Passage [JOU]             2.2                 
+Pharika, God of Affliction [JOU]          1.32      1.5       s1[1] 
+Kruphix, God of Horizons [JOU]            1.08                
+Prophetic Flamespeaker [JOU]              0.9       1.02      bs[1] 
+Godsend [JOU]                             0.77                
+Sage of Hours [JOU]                       0.59                
+Iroas, God of Victory [JOU]               0.56                
+Launch the Fleet [JOU]                    0.47      0.54      mr[1] 
+Master of the Feast [JOU]                 0.31                
+Worst Fears [JOU]                         0.26      0.38      bs[1] 
+Eidolon of Blossoms [JOU]                 0.22                
+Hypnotic Siren [JOU]                      0.17                
+Hall of Triumph [JOU]                     0.17                
+Banishing Light [JOU]                     0.11                
+Doomwake Giant [JOU]                      0.1                 
+Dictate of Erebos [JOU]                   0.055               
+Aegis of the Gods [JOU]                   0.046               
+Dictate of Heliod [JOU]                   0.038               
+Setessan Tactics [JOU]                    0.034     0.055     p3[3] 
+Harness by Force [JOU]                    0.032     0.05      Cs[1] bs[2] mr[4] p3[2] 
+Nyx-Fleece Ram [JOU]                      0.026               
+Twinflame [JOU]                           0.022               
+King Macar, the Gold-Cursed [JOU]         0.022               
+Battlefield Thaumaturge [JOU]             0.018               
+Silence the Believers [JOU]               0.018     0.03      bs[1] mr[1] p2[3] p3[2] s1[1] t6[1] 
+Dictate of Kruphix [JOU]                  0.01                
+Extinguish All Hope [JOU]                 0.01      0.016     bs[3] p2[1] p3[1] s1[1] t6[1] 
+Brain Maggot [JOU]                        0.01                
+Dawnbringer Charioteers [JOU]             0.01                
+Hydra Broodmaster [JOU]                   0.008     0.014     mr[1] 
+Gnarled Scarhide [JOU]                    0.008     0.014     Cs[4] bs[1] mr[2] 
+Heroes' Bane [JOU]                        0.006               
+Dictate of the Twin Gods [JOU]            0.006               
+
+=== Born of the Gods === [Total Buy/Sell Value: 23/27] ============================================
+
+Brimaz, King of Oreskos [BNG]             7.5       8.1       mr[4] 
+Courser of Kruphix [BNG]                  4.75      5.15      bs[1] mr[1] p3[2] t6[1] 
+Temple of Enlightenment [BNG]             1.86                
+Kiora, the Crashing Wave [BNG]            1.84                
+Xenagos, God of Revels [BNG]              0.73                
+Hero of Iroas [BNG]                       0.63                
+Phenax, God of Deception [BNG]            0.62                
+Temple of Plenty [BNG]                    0.57                
+Searing Blood [BNG]                       0.42                
+Bile Blight [BNG]                         0.42      0.5       s1[1] t6[3] 
+Mogis, God of Slaughter [BNG]             0.37                
+Flame-Wreathed Phoenix [BNG]              0.36      0.43      t6[1] 
+Chromanticore [BNG]                       0.29                
+Ephara, God of the Polis [BNG]            0.27                
+Karametra, God of Harvests [BNG]          0.22                
+Temple of Malice [BNG]                    0.2                 
+Champion of Stray Souls [BNG]             0.15      0.25      bs[1] s1[2] t6[1] 
+Drown in Sorrow [BNG]                     0.055     0.09      Cs[1] mr[1] p2[1] p3[2] t6[1] 
+Pain Seer [BNG]                           0.032     0.05      bs[4] mr[1] p2[2] p3[1] s2[1] t6[1] 
+Spirit of the Labyrinth [BNG]             0.032               
+Eidolon of Countless Battles [BNG]        0.026               
+Herald of Torment [BNG]                   0.022               
+Satyr Firedancer [BNG]                              0.014     Cs[1] bs[4] p3[2] s2[4] 
+
+=== Theros === [Total Buy/Sell Value: 38/44] ======================================================
+
+Elspeth, Sun's Champion [THS]             6.7                 
+Thoughtseize [THS]                        5.8                 
+Ashiok, Nightmare Weaver [THS]            4.95                
+Master of Waves [THS]                     2.9                 
+Purphoros, God of the Forge [THS]         2.5                 
+Stormbreath Dragon [THS]                            2.45      bs[4] mr[1] p3[2] s1[1] s2[3] t6[1] 
+Xenagos, the Reveler [THS]                1.9                 
+Polukranos, World Eater [THS]             1.68                
+Thassa, God of the Sea [THS]              1.6                 
+Erebos, God of the Dead [THS]             1.36      1.56      Cs[1] s1[3] s2[1] 
+Nylea, God of the Hunt [THS]              0.99      1.12      Cs[1] mr[2] 
+Hero's Downfall [THS]                     0.74                
+Nykthos, Shrine to Nyx [THS]              0.6       0.68      Cs[2] mr[2] s2[2] 
+Heliod, God of the Sun [THS]              0.55                
+Hythonia the Cruel [THS]                  0.37      0.44      p2[1] 
+Anger of the Gods [THS]                   0.3       0.45      mr[4] 
+Ashen Rider [THS]                         0.28                
+Underworld Cerberus [THS]                 0.23      0.34      bs[1] s1[1] t6[3] 
+Medomai the Ageless [THS]                 0.21                
+Sylvan Caryatid [THS]                     0.16      0.24      Cs[1] bs[1] p2[2] p3[2] t6[1] 
+Temple of Triumph [THS]                   0.11      0.19      mr[4] s2[4] 
+Temple of Deceit [THS]                    0.1                 
+Temple of Silence [THS]                             0.16      Cs[2] bs[2] mr[4] p2[2] s1[1] 
+Swan Song [THS]                           0.065     0.1       bs[1] mr[1] p2[1] 
+Fleecemane Lion [THS]                               0.1       Cs[1] bs[4] mr[1] s1[3] t6[2] 
+Temple of Abandon [THS]                   0.06      0.1       Cs[4] 
+Boon Satyr [THS]                          0.016     0.026     mr[2] t6[1] 
+Temple of Mystery [THS]                   0.014               
+Whip of Erebos [THS]                      0.014     0.022     t6[2] 
+Soldier of the Pantheon [THS]             0.01      0.016     mr[3] 
+Fabled Hero [THS]                         0.008     0.012     p2[1] t6[1] 
+Spear of Heliod [THS]                     0.008     0.012     t6[2] 
+
+=== Commander (2013 Edition) === [Total Buy/Sell Value: 8/12] =====================================
+
+True-Name Nemesis [C13]                   1.52                
+Toxic Deluge [C13]                        1.4                 
+Marath, Will of the Wild [C13]            0.43                
+Prossh, Skyraider of Kher [C13]           0.37                
+Bane of Progress [C13]                    0.33                
+Primal Vigor [C13]                        0.32                
+Shattergang Brothers [C13]                0.29                
+Unexpectedly Absent [C13]                 0.29                
+Roon of the Hidden Realm [C13]            0.27                
+Wrath of God [C13]                        0.25                
+Derevi, Empyrial Tactician [C13]          0.25                
+Ophiomancer [C13]                         0.19                
+Oloro, Ageless Ascetic [C13]              0.18                
+Avenger of Zendikar [C13]                 0.17                
+Homeward Path [C13]                       0.17                
+Gahiji, Honored One [C13]                 0.16                
+Tempt with Discovery [C13]                0.16                
+Sudden Demise [C13]                       0.13                
+Angel of Finality [C13]                   0.12                
+Karmic Guide [C13]                        0.095               
+Naya Soulbeast [C13]                      0.06                
+Sydri, Galvanic Genius [C13]              0.06                
+Spawning Grounds [C13]                    0.046               
+Tempt with Vengeance [C13]                0.042               
+Nevinyrral's Disk [C13]                   0.036               
+Endless Cockroaches [C13]                 0.032               
+Murkfiend Liege [C13]                     0.03                
+Djinn of Infinite Deceits [C13]           0.03                
+Rampaging Baloths [C13]                   0.026               
+Widespread Panic [C13]                    0.026               
+Goblin Sharpshooter [C13]                 0.024               
+Jeleva, Nephalia's Scourge [C13]          0.022               
+Kirtar's Wrath [C13]                      0.02                
+Decree of Pain [C13]                      0.02                
+Fell Shepherd [C13]                       0.02                
+Mosswort Bridge [C13]                     0.018               
+Eternal Dragon [C13]                      0.018               
+Nekusar, the Mindrazer [C13]              0.016               
+Surveyor's Scope [C13]                    0.016               
+Inferno Titan [C13]                       0.014               
+Army of the Damned [C13]                  0.014               
+Thousand-Year Elixir [C13]                0.014               
+Mirror Entity [C13]                       0.012               
+From the Ashes [C13]                      0.01                
+Mystic Barrier [C13]                      0.008               
+Blue Sun's Zenith [C13]                   0.008               
+Thraximundar [C13]                        0.008               
+Sphinx of the Steel Wind [C13]            0.008               
+Well of Lost Dreams [C13]                 0.008               
+Azami, Lady of Scrolls [C13]              0.006               
+
+=== Sorin vs Tibalt === [Total Buy/Sell Value: 0/0] ===============================================
+
+Sulfuric Vortex [DDK]                     0.06                
+Ancient Craving [DDK]                     0.016               
+
+=== Magic 2014 === [Total Buy/Sell Value: 10/15] ==================================================
+
+Kalonian Hydra [M14]                      1.58                
+Chandra, Pyromaster [M14]                 1.32                
+Mutavault [M14]                           1.04                
+Primeval Bounty [M14]                     0.87                
+Archangel of Thune [M14]                  0.78                
+Scavenging Ooze [M14]                     0.72                
+Liliana of the Dark Realms [M14]          0.66                
+Ajani, Caller of the Pride [M14]          0.64                
+Garruk, Caller of Beasts [M14]            0.47                
+Rise of the Dark Realms [M14]             0.42                
+Ring of Three Wishes [M14]                0.24                
+Jace, Memory Adept [M14]                  0.19                
+Scourge of Valkas [M14]                   0.17                
+Devout Invocation [M14]                   0.17                
+Shadowborn Demon [M14]                    0.15                
+Darksteel Forge [M14]                     0.085               
+Galerider Sliver [M14]                    0.055               
+Windreader Sphinx [M14]                   0.042               
+Syphon Sliver [M14]                       0.01                
+Lifebane Zombie [M14]                     0.01                
+Tidebinder Mage [M14]                     0.006               
+
+=== Modern Masters === [Total Buy/Sell Value: 10/15] ==============================================
+
+Vendilion Clique [MMA]                    2.3                 
+Tarmogoyf [MMA]                           1.66                
+Cryptic Command [MMA]                     1.08                
+Blood Moon [MMA]                          0.76                
+Dark Confidant [MMA]                      0.75                
+Sword of Fire and Ice [MMA]               0.49                
+Vedalken Shackles [MMA]                   0.48                
+Elspeth, Knight-Errant [MMA]              0.3                 
+Engineered Explosives [MMA]               0.28                
+Kiki-Jiki, Mirror Breaker [MMA]           0.28                
+Chalice of the Void [MMA]                 0.21                
+City of Brass [MMA]                       0.2                 
+Sword of Light and Shadow [MMA]           0.19                
+Arcbound Ravager [MMA]                    0.17                
+Pact of Negation [MMA]                    0.14                
+Æther Vial [MMA]                          0.13                
+Gifts Ungiven [MMA]                       0.12                
+Blinkmoth Nexus [MMA]                     0.11                
+Kataki, War's Wage [MMA]                  0.09                
+Life from the Loam [MMA]                  0.09                
+Slaughter Pact [MMA]                      0.08                
+Glimmervoid [MMA]                         0.07                
+Kira, Great Glass-Spinner [MMA]           0.065               
+Progenitus [MMA]                          0.065               
+Maelstrom Pulse [MMA]                     0.048               
+Knight of the Reliquary [MMA]             0.044               
+Figure of Destiny [MMA]                   0.044               
+Summoner's Pact [MMA]                     0.042               
+Bridge from Below [MMA]                   0.038               
+Sarkhan Vol [MMA]                         0.034               
+Doubling Season [MMA]                     0.03                
+Academy Ruins [MMA]                       0.028               
+Extirpate [MMA]                           0.026               
+Glen Elendra Archmage [MMA]               0.024               
+Lotus Bloom [MMA]                         0.022               
+Kokusho, the Evening Star [MMA]           0.02                
+Reveillark [MMA]                          0.016               
+Tooth and Nail [MMA]                      0.014               
+Angel's Grace [MMA]                       0.006               
+
+=== Dragon's Maze === [Total Buy/Sell Value: 6/8] =================================================
+
+Voice of Resurgence [DGM]                 4.25                
+Ral Zarek [DGM]                           0.31                
+Maze's End [DGM]                          0.12                
+Deadbridge Chant [DGM]                    0.095               
+Blood Baron of Vizkopa [DGM]              0.075               
+Notion Thief [DGM]                        0.048               
+Savageborn Hydra [DGM]                    0.04                
+Master of Cruelties [DGM]                 0.028               
+Reap Intellect [DGM]                      0.028               
+Progenitor Mimic [DGM]                    0.024               
+Legion's Initiative [DGM]                 0.022               
+Breaking/Entering [DGM]                   0.006               
+
+=== Gatecrash === [Total Buy/Sell Value: 10/15] ===================================================
+
+Domri Rade [GTC]                          1.6                 
+Master Biomancer [GTC]                    1.2                 
+Lazav, Dimir Mastermind [GTC]             0.82                
+Breeding Pool [GTC]                       0.73                
+Godless Shrine [GTC]                      0.62                
+Giant Adephage [GTC]                      0.47                
+Sacred Foundry [GTC]                      0.45                
+Stomping Ground [GTC]                     0.44                
+Enter the Infinite [GTC]                  0.44                
+Hellkite Tyrant [GTC]                     0.39                
+Prime Speaker Zegana [GTC]                0.37                
+Watery Grave [GTC]                        0.36                
+Lord of the Void [GTC]                    0.34                
+Aurelia, the Warleader [GTC]              0.29                
+Obzedat, Ghost Council [GTC]              0.27                
+Aurelia's Fury [GTC]                      0.18                
+Borborygmos Enraged [GTC]                 0.17                
+Gideon, Champion of Justice [GTC]         0.15                
+Deathpact Angel [GTC]                     0.11                
+Duskmantle Seer [GTC]                     0.075               
+Boros Reckoner [GTC]                      0.018               
+Legion Loyalist [GTC]                     0.008               
+Thespian's Stage [GTC]                    0.008               
+
+=== Izzet vs Golgari === [Total Buy/Sell Value: 0/0] ==============================================
+
+Life from the Loam [DDJ]                  0.07                
+Golgari Grave-Troll [DDJ]                 0.018               
+Twilight's Call [DDJ]                     0.008               
+Prophetic Bolt [DDJ]                      0.006               
+
+=== Return to Ravnica === [Total Buy/Sell Value: 15/22] ===========================================
+
+Worldspine Wurm [RTR]                     1.48                
+Sphinx's Revelation [RTR]                 1.18                
+Abrupt Decay [RTR]                        1.02                
+Vraska the Unseen [RTR]                   0.84                
+Necropolis Regent [RTR]                   0.78                
+Steam Vents [RTR]                         0.68                
+Angel of Serenity [RTR]                   0.66                
+Rakdos, Lord of Riots [RTR]               0.65                
+Rakdos's Return [RTR]                     0.56                
+Deathrite Shaman [RTR]                    0.56                
+Temple Garden [RTR]                       0.53                
+Overgrown Tomb [RTR]                      0.52                
+Hallowed Fountain [RTR]                   0.47                
+Epic Experiment [RTR]                     0.45                
+Jace, Architect of Thought [RTR]          0.42                
+Armada Wurm [RTR]                         0.35                
+Jarad, Golgari Lich Lord [RTR]            0.34                
+Trostani, Selesnya's Voice [RTR]          0.32                
+Utvara Hellkite [RTR]                     0.28                
+Isperia, Supreme Judge [RTR]              0.23                
+Niv-Mizzet, Dracogenius [RTR]             0.22                
+Rest in Peace [RTR]                       0.21                
+Blood Crypt [RTR]                         0.2                 
+Supreme Verdict [RTR]                     0.11                
+Pithing Needle [RTR]                      0.026               
+Cyclonic Rift [RTR]                       0.02                
+Loxodon Smiter [RTR]                      0.02                
+Pack Rat [RTR]                            0.014               
+Slaughter Games [RTR]                     0.012               
+Detention Sphere [RTR]                    0.01                
+Dreadbore [RTR]                           0.01                
+Chromatic Lantern [RTR]                   0.008               
+Nivmagus Elemental [RTR]                  0.008               
+
+=== Magic 2013 === [Total Buy/Sell Value: 3/5] ====================================================
+
+Thundermaw Hellkite [M13]                 0.42                
+Omniscience [M13]                         0.39                
+Sublime Archangel [M13]                   0.26                
+Primordial Hydra [M13]                    0.21                
+Vampire Nocturnus [M13]                   0.18                
+Ajani, Caller of the Pride [M13]          0.16                
+Akroma's Memorial [M13]                   0.16                
+Liliana of the Dark Realms [M13]          0.1                 
+Garruk, Primal Hunter [M13]               0.09                
+Elderscale Wurm [M13]                     0.08                
+Nicol Bolas, Planeswalker [M13]           0.065               
+Worldfire [M13]                           0.06                
+Jace, Memory Adept [M13]                  0.055               
+Chandra, the Firebrand [M13]              0.055               
+Master of the Pearl Trident [M13]         0.03                
+Serra Avatar [M13]                        0.026               
+Thragtusk [M13]                           0.022               
+
+=== Planechase (2012 Edition) === [Total Buy/Sell Value: 1/1] =====================================
+
+Kor Spiritdancer [PC2]                    0.19                
+Thromok the Insatiable [PC2]              0.14                
+Dragonlair Spider [PC2]                   0.13                
+Krond the Dawn-Clad [PC2]                 0.11                
+Maelstrom Wanderer [PC2]                  0.07                
+Sigil of the Empty Throne [PC2]           0.07                
+Sakashima's Student [PC2]                 0.065               
+Elderwood Scion [PC2]                     0.036               
+Silent-Blade Oni [PC2]                    0.028               
+Preyseizer Dragon [PC2]                   0.028               
+Indrik Umbra [PC2]                        0.026               
+Ink-Eyes, Servant of Oni [PC2]            0.012               
+Awakening Zone [PC2]                      0.01                
+Vela the Night-Clad [PC2]                 0.008               
+
+=== Avacyn Restored === [Total Buy/Sell Value: 13/18] =============================================
+
+Entreat the Angels [AVR]                  3.55                
+Griselbrand [AVR]                         2.5                 
+Craterhoof Behemoth [AVR]                 1.16                
+Avacyn, Angel of Hope [AVR]               0.65                
+Cavern of Souls [AVR]                     0.42                
+Sigarda, Host of Herons [AVR]             0.41                
+Restoration Angel [AVR]                   0.31                
+Temporal Mastery [AVR]                    0.21                
+Tamiyo, the Moon Sage [AVR]               0.17                
+Bonfire of the Damned [AVR]               0.1                 
+Vexing Devil [AVR]                        0.1                 
+Gisela, Blade of Goldnight [AVR]          0.055               
+Malignus [AVR]                            0.038               
+Misthollow Griffin [AVR]                  0.038               
+Tibalt, the Fiend-Blooded [AVR]           0.03                
+Terminus [AVR]                            0.028               
+Bruna, Light of Alabaster [AVR]           0.022               
+Primal Surge [AVR]                        0.022               
+
+=== Ajani vs Nicol Bolas === [Total Buy/Sell Value: 0/0] ==========================================
+
+Profane Command [DDH]                     0.18                
+Undermine [DDH]                           0.08                
+Blazing Specter [DDH]                     0.038               
+Firemane Angel [DDH]                      0.026               
+Cruel Ultimatum [DDH]                     0.022               
+Dimir Cutpurse [DDH]                      0.02                
+Ageless Entity [DDH]                      0.014               
+Loxodon Hierarch [DDH]                    0.01                
+
+=== Venser vs Koth === [Total Buy/Sell Value: 0/0] ================================================
+
+Clone [DDI]                               0.008               
+
+=== Dark Ascension === [Total Buy/Sell Value: 2/3] ================================================
+
+Mikaeus, the Unhallowed [DKA]             0.38                
+Sorin, Lord of Innistrad [DKA]            0.23                
+Falkenrath Aristocrat [DKA]               0.17                
+Grafdigger's Cage [DKA]                   0.15                
+Havengul Lich [DKA]                       0.12                
+Thalia, Guardian of Thraben [DKA]         0.12                
+Vorapede [DKA]                            0.1                 
+Huntmaster of the Fells [DKA]             0.09                
+Gravecrawler [DKA]                        0.05                
+Drogskol Reaver [DKA]                     0.028               
+Geralf's Messenger [DKA]                  0.014               
+Moonveil Dragon [DKA]                     0.006               
+
+=== Prophecy === [Total Buy/Sell Value: 0/0] ======================================================
+
+Rhystic Tutor [PR]                        0.026               
+Coffin Puppets [PR]                       0.014               
+Overburden [PR]                           0.014               
+Avatar of Woe [PR]                        0.008               
+Avatar of Hope [PR]                       0.006               
+
+=== Nemesis === [Total Buy/Sell Value: 0/1] =======================================================
+
+Tangle Wire [NE]                          0.3                 
+Parallax Wave [NE]                        0.095               
+Kor Haven [NE]                            0.09                
+Moggcatcher [NE]                          0.038               
+Saproling Burst [NE]                      0.034               
+Rootwater Thief [NE]                      0.034               
+Skyshroud Poacher [NE]                    0.026               
+Divining Witch [NE]                       0.024               
+Lin Sivvi, Defiant Hero [NE]              0.022               
+Parallax Tide [NE]                        0.02                
+Seahunter [NE]                            0.012               
+Predator, Flagship [NE]                   0.008               
+Blinding Angel [NE]                       0.008               
+
+=== Mercadian Masques === [Total Buy/Sell Value: 21/28] ===========================================
+
+Rishadan Port [MM]                        6.75                
+Misdirection [MM]                         3.5                 
+High Market [MM]                          0.31                
+Nether Spirit [MM]                        0.23                
+Dust Bowl [MM]                            0.22                
+Unmask [MM]                               0.19                
+Food Chain [MM]                           0.15                
+Bribery [MM]                              0.085               
+Black Market [MM]                         0.08                
+Squee, Goblin Nabob [MM]                  0.046               
+Tower of the Magistrate [MM]              0.034               
+Magistrate's Scepter [MM]                 0.032               
+Rishadan Brigand [MM]                     0.016               
+Saprazzan Heir [MM]                       0.012               
+Charisma [MM]                             0.012               
+Fountain Watch [MM]                       0.01                
+Wave of Reckoning [MM]                    0.008               
+Honor the Fallen [MM]                     0.008               
+Power Matrix [MM]                         0.008               
+Crackdown [MM]                            0.006               
+
+=== Innistrad === [Total Buy/Sell Value: 10/14] ===================================================
+
+Liliana of the Veil [ISD]                 3.9                 
+Past in Flames [ISD]                      0.7                 
+Geist of Saint Traft [ISD]                0.61                
+Snapcaster Mage [ISD]                     0.51                
+Olivia Voldaren [ISD]                     0.11                
+Garruk Relentless [ISD]                   0.06                
+Sulfur Falls [ISD]                        0.055               
+Grimoire of the Dead [ISD]                0.028               
+Army of the Damned [ISD]                  0.028               
+Stony Silence [ISD]                       0.026               
+Tree of Redemption [ISD]                  0.026               
+Mikaeus, the Lunarch [ISD]                0.024               
+Balefire Dragon [ISD]                     0.018               
+Grimgrin, Corpse-Born [ISD]               0.012               
+Isolated Chapel [ISD]                     0.012               
+Angelic Overseer [ISD]                    0.01                
+Skaab Ruinator [ISD]                      0.008               
+Woodland Cemetery [ISD]                   0.008               
+
+=== Magic 2012 === [Total Buy/Sell Value: 3/4] ====================================================
+
+Primeval Titan [M12]                      0.83                
+Primordial Hydra [M12]                    0.13                
+Garruk, Primal Hunter [M12]               0.1                 
+Angelic Destiny [M12]                     0.09                
+Grave Titan [M12]                         0.085               
+Gideon Jura [M12]                         0.08                
+Phantasmal Image [M12]                    0.065               
+Grim Lavamancer [M12]                     0.05                
+Chandra, the Firebrand [M12]              0.042               
+Inferno Titan [M12]                       0.04                
+Sun Titan [M12]                           0.032               
+Jace, Memory Adept [M12]                  0.03                
+Sorin Markov [M12]                        0.03                
+Solemn Simulacrum [M12]                   0.024               
+Frost Titan [M12]                         0.02                
+Birds of Paradise [M12]                   0.018               
+Visions of Beyond [M12]                   0.006               
+
+=== Mirrodin Pure vs New Phyrexia === [Total Buy/Sell Value: 0/0] =================================
+
+Blinkmoth Nexus [TD2]                     0.17                
+Phyrexian Altar [TD2]                     0.05                
+Necroskitter [TD2]                        0.03                
+Duplicant [TD2]                           0.024               
+Black Sun's Zenith [TD2]                  0.022               
+Protean Hulk [TD2]                        0.014               
+White Sun's Zenith [TD2]                  0.008               
+Silent Arbiter [TD2]                      0.008               
+Kuldotha Forgemaster [TD2]                0.008               
+Grand Architect [TD2]                     0.008               
+
+=== Knights vs Dragons === [Total Buy/Sell Value: 0/0] ============================================
+
+Loxodon Warhammer [DDG]                   0.03                
+Kinsbaile Cavalier [DDG]                  0.016               
+Knight Exemplar [DDG]                     0.014               
+Knight of the White Orchid [DDG]          0.014               
+Kilnmouth Dragon [DDG]                    0.01                
+Knotvine Paladin [DDG]                    0.008               
+
+=== Commander (2011 Edition) === [Total Buy/Sell Value: 2/4] ======================================
+
+Oblivion Stone [CMD]                      0.35                
+Scavenging Ooze [CMD]                     0.24                
+Homeward Path [CMD]                       0.21                
+Kaalia of the Vast [CMD]                  0.18                
+Flusterstorm [CMD]                        0.17                
+Hornet Queen [CMD]                        0.14                
+Damia, Sage of Stone [CMD]                0.12                
+Garruk Wildspeaker [CMD]                  0.1                 
+Stranglehold [CMD]                        0.095               
+The Mimeoplasm [CMD]                      0.095               
+Edric, Spymaster of Trest [CMD]           0.08                
+Animar, Soul of Elements [CMD]            0.08                
+Ghave, Guru of Spores [CMD]               0.04                
+Skullbriar, the Walking Grave [CMD]       0.03                
+Howling Mine [CMD]                        0.028               
+Tariel, Reckoner of Souls [CMD]           0.026               
+Solemn Simulacrum [CMD]                   0.024               
+Angel of Despair [CMD]                    0.02                
+Living Death [CMD]                        0.018               
+Attrition [CMD]                           0.016               
+Riku of Two Reflections [CMD]             0.016               
+Grave Pact [CMD]                          0.012               
+Champion's Helm [CMD]                     0.012               
+Vish Kal, Blood Arbiter [CMD]             0.008               
+Hydra Omnivore [CMD]                      0.008               
+
+=== New Phyrexia === [Total Buy/Sell Value: 6/8] ==================================================
+
+Batterskull [NPH]                         1.9                 
+Karn Liberated [NPH]                      1.14                
+Spellskite [NPH]                          0.7                 
+Elesh Norn, Grand Cenobite [NPH]          0.65                
+Phyrexian Obliterator [NPH]               0.43                
+Sword of War and Peace [NPH]              0.25                
+Surgical Extraction [NPH]                 0.23                
+Torpor Orb [NPH]                          0.18                
+Birthing Pod [NPH]                        0.11                
+Vorinclex, Voice of Hunger [NPH]          0.085               
+Blade Splicer [NPH]                       0.085               
+Jin-Gitaxias, Core Augur [NPH]            0.085               
+Phyrexian Metamorph [NPH]                 0.065               
+Sheoldred, Whispering One [NPH]           0.03                
+Urabrask the Hidden [NPH]                 0.026               
+Melira, Sylvok Outcast [NPH]              0.016               
+
+=== Urza's Destiny === [Total Buy/Sell Value: 2/3] ================================================
+
+Academy Rector [UD]                       0.52                
+Replenish [UD]                            0.22                
+Metalworker [UD]                          0.15                
+Rofellos, Llanowar Emissary [UD]          0.055               
+Treachery [UD]                            0.032               
+Yavimaya Hollow [UD]                      0.01                
+Yawgmoth's Bargain [UD]                   0.008               
+Opposition [UD]                           0.008               
+Pattern of Rebirth [UD]                   0.008               
+
+=== Mirrodin Besieged === [Total Buy/Sell Value: 2/3] =============================================
+
+Sword of Feast and Famine [MBS]           0.45                
+Tezzeret, Agent of Bolas [MBS]            0.43                
+Thrun, the Last Troll [MBS]               0.38                
+Inkmoth Nexus [MBS]                       0.25                
+Hero of Bladehold [MBS]                   0.11                
+Consecrated Sphinx [MBS]                  0.1                 
+Mirran Crusader [MBS]                     0.055               
+Blightsteel Colossus [MBS]                0.044               
+Massacre Wurm [MBS]                       0.032               
+Green Sun's Zenith [MBS]                  0.016               
+Phyrexian Crusader [MBS]                  0.016               
+Creeping Corrosion [MBS]                  0.012               
+Phyrexian Revoker [MBS]                   0.008               
+Praetor's Counsel [MBS]                   0.006               
+
+=== Masters Edition IV === [Total Buy/Sell Value: 8/13] ===========================================
+
+Underground Sea [ME4]                     0.85                
+Tundra [ME4]                              0.83                
+Volcanic Island [ME4]                     0.76                
+Maze of Ith [ME4]                         0.71                
+Tropical Island [ME4]                     0.66                
+Mishra's Workshop [ME4]                   0.48                
+Bayou [ME4]                               0.45                
+Candelabra of Tawnos [ME4]                0.33                
+Time Vault [ME4]                          0.31                
+Transmute Artifact [ME4]                  0.31                
+Demonic Tutor [ME4]                       0.29                
+Ashnod's Altar [ME4]                      0.22                
+Stasis [ME4]                              0.22                
+Savannah [ME4]                            0.21                
+Sinkhole [ME4]                            0.2                 
+Taiga [ME4]                               0.19                
+City of Brass [ME4]                       0.17                
+Badlands [ME4]                            0.17                
+Plateau [ME4]                             0.17                
+Library of Alexandria [ME4]               0.15                
+Scrubland [ME4]                           0.15                
+Strip Mine [ME4]                          0.13                
+Wheel of Fortune [ME4]                    0.12                
+Sol Ring [ME4]                            0.1                 
+Fastbond [ME4]                            0.09                
+Mana Vault [ME4]                          0.075               
+Copy Artifact [ME4]                       0.06                
+Regrowth [ME4]                            0.055               
+Gauntlet of Might [ME4]                   0.044               
+Armageddon [ME4]                          0.038               
+Overwhelming Forces [ME4]                 0.034               
+Control Magic [ME4]                       0.022               
+Balance [ME4]                             0.014               
+Power Artifact [ME4]                      0.014               
+
+=== Elspeth vs Tezzeret === [Total Buy/Sell Value: 0/0] ===========================================
+
+Steel Overseer [DDF]                      0.28                
+Master of Etherium [DDF]                  0.05                
+Triskelion [DDF]                          0.012               
+Crusade [DDF]                             0.012               
+
+=== Scars of Mirrodin === [Total Buy/Sell Value: 6/8] =============================================
+
+Mox Opal [SOM]                            2.55                
+Wurmcoil Engine [SOM]                     0.24                
+Venser, the Sojourner [SOM]               0.19                
+Koth of the Hammer [SOM]                  0.16                
+Sword of Body and Mind [SOM]              0.14                
+Elspeth Tirel [SOM]                       0.11                
+Mindslaver [SOM]                          0.09                
+Razorverge Thicket [SOM]                  0.05                
+Skithiryx, the Blight Dragon [SOM]        0.048               
+Blackcleave Cliffs [SOM]                  0.048               
+Darkslick Shores [SOM]                    0.028               
+Platinum Emperion [SOM]                   0.026               
+Geth, Lord of the Vault [SOM]             0.026               
+Copperline Gorge [SOM]                    0.022               
+Lux Cannon [SOM]                          0.02                
+Seachrome Coast [SOM]                     0.018               
+Etched Champion [SOM]                     0.008               
+Genesis Wave [SOM]                        0.008               
+Indomitable Archangel [SOM]               0.008               
+
+=== Magic 2011 === [Total Buy/Sell Value: 4/6] ====================================================
+
+Primeval Titan [M11]                      0.85                
+Leyline of Sanctity [M11]                 0.34                
+Baneslayer Angel [M11]                    0.17                
+Grave Titan [M11]                         0.15                
+Garruk Wildspeaker [M11]                  0.13                
+Serra Ascendant [M11]                     0.11                
+Liliana Vess [M11]                        0.06                
+Inferno Titan [M11]                       0.055               
+Sun Titan [M11]                           0.05                
+Jace Beleren [M11]                        0.048               
+Leyline of the Void [M11]                 0.044               
+Ajani Goldmane [M11]                      0.04                
+Platinum Angel [M11]                      0.038               
+Steel Overseer [M11]                      0.038               
+Frost Titan [M11]                         0.024               
+Fauna Shaman [M11]                        0.024               
+Birds of Paradise [M11]                   0.022               
+Gaea's Revenge [M11]                      0.018               
+Demon of Death's Gate [M11]               0.018               
+Obstinate Baloth [M11]                    0.016               
+
+=== Urza's Legacy === [Total Buy/Sell Value: 2/3] =================================================
+
+Grim Monolith [UL]                        0.48                
+Defense Grid [UL]                         0.16                
+Goblin Welder [UL]                        0.13                
+Memory Jar [UL]                           0.02                
+Defense of the Heart [UL]                 0.012               
+No Mercy [UL]                             0.008               
+
+=== Phyrexia vs The Coalition === [Total Buy/Sell Value: 4/6] =====================================
+
+Coalition Relic [DDE]                     1.96                
+Phyrexian Arena [DDE]                     1.42                
+Living Death [DDE]                        0.79                
+Phyrexian Processor [DDE]                 0.51                
+Rith, the Awakener [DDE]                  0.04                
+Treva, the Renewer [DDE]                  0.03                
+Darigaaz, the Igniter [DDE]               0.022               
+Phyrexian Colossus [DDE]                  0.01                
+Gerrard Capashen [DDE]                    0.008               
+
+=== Rise of the Eldrazi === [Total Buy/Sell Value: 5/8] ===========================================
+
+Linvala, Keeper of Silence [ROE]          1.08                
+Emrakul, the Aeons Torn [ROE]             0.83                
+All Is Dust [ROE]                         0.54                
+Kozilek, Butcher of Truth [ROE]           0.45                
+Splinter Twin [ROE]                       0.36                
+Ulamog, the Infinite Gyre [ROE]           0.35                
+Vengevine [ROE]                           0.32                
+Gideon Jura [ROE]                         0.085               
+Kor Spiritdancer [ROE]                    0.08                
+Nirkana Revenant [ROE]                    0.08                
+Lighthouse Chronologist [ROE]             0.04                
+Khalni Hydra [ROE]                        0.036               
+Student of Warfare [ROE]                  0.03                
+Kargan Dragonlord [ROE]                   0.028               
+Transcendent Master [ROE]                 0.014               
+Sarkhan the Mad [ROE]                     0.012               
+It That Betrays [ROE]                     0.006               
+
+=== Worldwake === [Total Buy/Sell Value: 6/9] =====================================================
+
+Jace, the Mind Sculptor [WWK]             1.38                
+Celestial Colonnade [WWK]                 0.51                
+Creeping Tar Pit [WWK]                    0.2                 
+Stoneforge Mystic [WWK]                   0.12                
+Admonition Angel [WWK]                    0.12                
+Eye of Ugin [WWK]                         0.12                
+Omnath, Locus of Mana [WWK]               0.085               
+Avenger of Zendikar [WWK]                 0.07                
+Raging Ravine [WWK]                       0.05                
+Abyssal Persecutor [WWK]                  0.05                
+Amulet of Vigor [WWK]                     0.038               
+Basilisk Collar [WWK]                     0.024               
+Stirring Wildwood [WWK]                   0.024               
+Lavaclaw Reaches [WWK]                    0.014               
+Lodestone Golem [WWK]                     0.012               
+Dragonmaster Outcast [WWK]                0.01                
+Kalastria Highborn [WWK]                  0.01                
+Wrexial, the Risen Deep [WWK]             0.008               
+Death's Shadow [WWK]                      0.008               
+Joraga Warcaller [WWK]                    0.008               
+
+=== Garruk vs Liliana === [Total Buy/Sell Value: 0/0] =============================================
+
+Bad Moon [DDD]                            0.006               
+
+=== Exodus === [Total Buy/Sell Value: 2/3] ========================================================
+
+City of Traitors [EX]                     0.92                
+Oath of Druids [EX]                       0.09                
+Cataclysm [EX]                            0.04                
+Survival of the Fittest [EX]              0.028               
+Seismic Assault [EX]                      0.026               
+Sphere of Resistance [EX]                 0.014               
+Mind Over Matter [EX]                     0.012               
+Hatred [EX]                               0.01                
+Manabond [EX]                             0.01                
+
+=== Theme Deck Set === [Total Buy/Sell Value: 0/1] ================================================
+
+Goblin Guide [TD0]                        0.18                
+Phyrexian Arena [TD0]                     0.1                 
+Umezawa's Jitte [TD0]                     0.09                
+Life from the Loam [TD0]                  0.07                
+Genesis [TD0]                             0.065               
+Stoneforge Mystic [TD0]                   0.032               
+Concordant Crossroads [TD0]               0.032               
+Karakas [TD0]                             0.028               
+Golgari Grave-Troll [TD0]                 0.022               
+Decree of Justice [TD0]                   0.01                
+Mirari's Wake [TD0]                       0.01                
+Miren, the Moaning Well [TD0]             0.006               
+All Hallow's Eve [TD0]                    0.006               
+Vampiric Dragon [TD0]                     0.006               
+
+=== Zendikar === [Total Buy/Sell Value: 5/8] ======================================================
+
+Scalding Tarn [ZEN]                       1.22                
+Misty Rainforest [ZEN]                    0.77                
+Arid Mesa [ZEN]                           0.64                
+Verdant Catacombs [ZEN]                   0.63                
+Mindbreak Trap [ZEN]                      0.38                
+Iona, Shield of Emeria [ZEN]              0.37                
+Marsh Flats [ZEN]                         0.36                
+Goblin Guide [ZEN]                        0.23                
+Lotus Cobra [ZEN]                         0.18                
+Bloodghast [ZEN]                          0.11                
+Nissa Revane [ZEN]                        0.055               
+Eldrazi Monument [ZEN]                    0.055               
+Sorin Markov [ZEN]                        0.044               
+Pyromancer Ascension [ZEN]                0.04                
+Warren Instigator [ZEN]                   0.034               
+Felidar Sovereign [ZEN]                   0.032               
+Ob Nixilis, the Fallen [ZEN]              0.018               
+Chandra Ablaze [ZEN]                      0.014               
+Rampaging Baloths [ZEN]                   0.014               
+Kalitas, Bloodchief of Ghet [ZEN]         0.012               
+Oracle of Mul Daya [ZEN]                  0.012               
+Eternity Vessel [ZEN]                     0.006               
+
+=== Masters Edition III === [Total Buy/Sell Value: 5/7] ===========================================
+
+Volcanic Island [ME3]                     0.8                 
+Mana Drain [ME3]                          0.66                
+Tropical Island [ME3]                     0.58                
+The Tabernacle at Pendrell Vale [ME3]     0.46                
+Grim Tutor [ME3]                          0.45                
+Bazaar of Baghdad [ME3]                   0.34                
+Bayou [ME3]                               0.32                
+Mind Twist [ME3]                          0.23                
+Land Tax [ME3]                            0.2                 
+Scrubland [ME3]                           0.18                
+Plateau [ME3]                             0.14                
+Karakas [ME3]                             0.12                
+Black Vise [ME3]                          0.095               
+Capture of Jingzhou [ME3]                 0.085               
+The Abyss [ME3]                           0.08                
+Nether Void [ME3]                         0.032               
+Concordant Crossroads [ME3]               0.026               
+Reset [ME3]                               0.018               
+Kongming, "Sleeping Dragon" [ME3]         0.016               
+
+=== Magic 2010 === [Total Buy/Sell Value: 1/1] ====================================================
+
+Time Warp [M10]                           0.18                
+Baneslayer Angel [M10]                    0.14                
+Garruk Wildspeaker [M10]                  0.12                
+Master of the Wild Hunt [M10]             0.06                
+Platinum Angel [M10]                      0.048               
+Ajani Goldmane [M10]                      0.042               
+Jace Beleren [M10]                        0.04                
+Vampire Nocturnus [M10]                   0.034               
+Sphinx Ambassador [M10]                   0.032               
+Liliana Vess [M10]                        0.032               
+Darksteel Colossus [M10]                  0.03                
+Howling Mine [M10]                        0.02                
+Birds of Paradise [M10]                   0.02                
+Ball Lightning [M10]                      0.01                
+Honor of the Pure [M10]                   0.008               
+Bogardan Hellkite [M10]                   0.008               
+Open the Vaults [M10]                     0.006               
+
+=== Alara Reborn === [Total Buy/Sell Value: 0/1] ==================================================
+
+Maelstrom Nexus [ARB]                     0.08                
+Lord of Extinction [ARB]                  0.065               
+Maelstrom Pulse [ARB]                     0.06                
+Thraximundar [ARB]                        0.038               
+Dragon Broodmother [ARB]                  0.034               
+Sen Triplets [ARB]                        0.034               
+Jenara, Asura of War [ARB]                0.026               
+Uril, the Miststalker [ARB]               0.016               
+Sphinx of the Steel Wind [ARB]            0.016               
+Karrthus, Tyrant of Jund [ARB]            0.014               
+Meddling Mage [ARB]                       0.01                
+
+=== Divine vs Demonic === [Total Buy/Sell Value: 0/0] =============================================
+
+Reya Dawnbringer [DDC]                    0.01                
+
+=== Conflux === [Total Buy/Sell Value: 5/7] =======================================================
+
+Noble Hierarch [CON]                      2.1                 
+Maelstrom Archangel [CON]                 0.06                
+Knight of the Reliquary [CON]             0.042               
+Ethersworn Adjudicator [CON]              0.036               
+Sigil of the Empty Throne [CON]           0.032               
+Progenitus [CON]                          0.028               
+Nicol Bolas, Planeswalker [CON]           0.026               
+Child of Alara [CON]                      0.026               
+Apocalypse Hydra [CON]                    0.024               
+Master Transmuter [CON]                   0.022               
+Thornling [CON]                           0.018               
+Font of Mythos [CON]                      0.01                
+Conflux [CON]                             0.008               
+
+=== Shards of Alara === [Total Buy/Sell Value: 2/4] ===============================================
+
+Ajani Vengeant [ALA]                      0.6                 
+Elspeth, Knight-Errant [ALA]              0.26                
+Tezzeret the Seeker [ALA]                 0.13                
+Ranger of Eos [ALA]                       0.08                
+Rafiq of the Many [ALA]                   0.065               
+Sarkhan Vol [ALA]                         0.042               
+Master of Etherium [ALA]                  0.042               
+Ad Nauseam [ALA]                          0.024               
+Godsire [ALA]                             0.01                
+Sharuum the Hegemon [ALA]                 0.008               
+Death Baron [ALA]                         0.008               
+Knight of the White Orchid [ALA]          0.006               
+
+=== Tempest === [Total Buy/Sell Value: 2/4] =======================================================
+
+Grindstone [TE]                           0.72                
+Intuition [TE]                            0.29                
+Humility [TE]                             0.21                
+Scroll Rack [TE]                          0.19                
+Reflecting Pool [TE]                      0.15                
+Earthcraft [TE]                           0.11                
+Time Warp [TE]                            0.09                
+Mirri's Guile [TE]                        0.085               
+Aluren [TE]                               0.065               
+Meditate [TE]                             0.065               
+Sapphire Medallion [TE]                   0.044               
+Coffin Queen [TE]                         0.034               
+Altar of Dementia [TE]                    0.034               
+Cursed Scroll [TE]                        0.026               
+Jet Medallion [TE]                        0.024               
+Pearl Medallion [TE]                      0.024               
+Living Death [TE]                         0.02                
+Corpse Dance [TE]                         0.014               
+Sarcomancy [TE]                           0.014     0.024     bs[1] 
+Eladamri, Lord of Leaves [TE]             0.014               
+Helm of Possession [TE]                   0.012               
+Ruby Medallion [TE]                       0.01                
+Emerald Medallion [TE]                    0.008               
+Winds of Rath [TE]                        0.008               
+
+=== Jace vs Chandra === [Total Buy/Sell Value: 0/0] ===============================================
+
+Ancestral Vision [DD2]                    0.065               
+
+=== Stronghold === [Total Buy/Sell Value: 2/3] ====================================================
+
+Ensnaring Bridge [ST]                     0.5                 
+Mox Diamond [ST]                          0.34                
+Volrath's Stronghold [ST]                 0.05                
+Burgeoning [ST]                           0.026               
+Dream Halls [ST]                          0.022               
+Horn of Greed [ST]                        0.014               
+Intruder Alarm [ST]                       0.008               
+Grave Pact [ST]                           0.006               
+
+=== Urza's Saga === [Total Buy/Sell Value: 15/20] =================================================
+
+Show and Tell [UZ]                        6.5                 
+Gaea's Cradle [UZ]                        1.6                 
+Sneak Attack [UZ]                         1.12                
+Time Spiral [UZ]                          0.81                
+Exploration [UZ]                          0.77                
+Tolarian Academy [UZ]                     0.75                
+Back to Basics [UZ]                       0.35                
+Argothian Enchantress [UZ]                0.24                
+Gilded Drake [UZ]                         0.21                
+Smokestack [UZ]                           0.15                
+Serra's Sanctum [UZ]                      0.14                
+Gamble [UZ]                               0.1                 
+Energy Field [UZ]                         0.09                
+Phyrexian Tower [UZ]                      0.07                
+Yawgmoth's Will [UZ]                      0.042               
+Stroke of Genius [UZ]                     0.026               
+Karn, Silver Golem [UZ]                   0.01                
+Ill-Gotten Gains [UZ]                     0.008               
+Worship [UZ]                              0.008               
+Fluctuator [UZ]                           0.008               
+Contamination [UZ]                        0.008               
+
+=== Seventh Edition === [Total Buy/Sell Value: 2/3] ===============================================
+
+Ensnaring Bridge [7E]                     0.58                
+Lord of Atlantis [7E]                     0.41                
+Wrath of God [7E]                         0.19                
+Meekstone [7E]                            0.12                
+City of Brass [7E]                        0.11                
+Adarkar Wastes [7E]                       0.05                
+Birds of Paradise [7E]                    0.024               
+Seismic Assault [7E]                      0.022               
+Underground River [7E]                    0.02                
+Brushland [7E]                            0.018               
+Howling Mine [7E]                         0.014               
+Sulfurous Springs [7E]                    0.01                
+Vernal Bloom [7E]                         0.008               
+
+=== Eighth Edition === [Total Buy/Sell Value: 4/6] ================================================
+
+Blood Moon [8ED]                          0.78                
+Ensnaring Bridge [8ED]                    0.49                
+Wrath of God [8ED]                        0.24                
+Phyrexian Arena [8ED]                     0.16                
+Bribery [8ED]                             0.15                
+Defense Grid [8ED]                        0.12                
+City of Brass [8ED]                       0.04                
+Birds of Paradise [8ED]                   0.024               
+Lord of the Undead [8ED]                  0.022               
+Seismic Assault [8ED]                     0.016               
+Intruder Alarm [8ED]                      0.014               
+Howling Mine [8ED]                        0.01                
+Grave Pact [8ED]                          0.01                
+Planar Portal [8ED]                       0.008               
+
+=== Ninth Edition === [Total Buy/Sell Value: 3/5] =================================================
+
+Blood Moon [9ED]                          0.72                
+Caves of Koilos [9ED]                     0.5                 
+Phyrexian Arena [9ED]                     0.19                
+Wrath of God [9ED]                        0.19                
+Defense Grid [9ED]                        0.14                
+Shivan Reef [9ED]                         0.065               
+Adarkar Wastes [9ED]                      0.028               
+Battlefield Forge [9ED]                   0.024               
+Llanowar Wastes [9ED]                     0.022               
+Howling Mine [9ED]                        0.01                
+Karplusan Forest [9ED]                    0.008               
+Yavimaya Coast [9ED]                      0.008               
+Grave Pact [9ED]                          0.008               
+Weathered Wayfarer [9ED]                  0.006               
+Lord of the Undead [9ED]                  0.006               
+Seedborn Muse [9ED]                       0.006               
+
+=== Tenth Edition === [Total Buy/Sell Value: 5/8] =================================================
+
+Hurkyl's Recall [10E]                     1.36                
+Caves of Koilos [10E]                     0.61                
+Crucible of Worlds [10E]                  0.3                 
+Shivan Reef [10E]                         0.11                
+Wrath of God [10E]                        0.085               
+Lord of the Undead [10E]                  0.046               
+Adarkar Wastes [10E]                      0.04                
+Battlefield Forge [10E]                   0.04                
+Sculpting Steel [10E]                     0.036               
+Underground River [10E]                   0.034               
+Time Stretch [10E]                        0.028               
+Seismic Assault [10E]                     0.02                
+Brushland [10E]                           0.018               
+Yavimaya Coast [10E]                      0.016               
+Seedborn Muse [10E]                       0.016               
+Platinum Angel [10E]                      0.016               
+Beacon of Unrest [10E]                    0.014               
+Llanowar Wastes [10E]                     0.014               
+Grave Pact [10E]                          0.012               
+Karplusan Forest [10E]                    0.012               
+Goblin King [10E]                         0.012               
+Birds of Paradise [10E]                   0.012               
+Sulfurous Springs [10E]                   0.01                
+Arcanis the Omnipotent [10E]              0.008               
+Elvish Champion [10E]                     0.008               
+Howling Mine [10E]                        0.008               
+Doubling Cube [10E]                       0.008               
+Field Marshal [10E]                       0.008               
+Evacuation [10E]                          0.006               
+Reya Dawnbringer [10E]                    0.006               
+
+=== Elves vs Goblins === [Total Buy/Sell Value: 0/0] ==============================================
+
+
+=== Masters Edition === [Total Buy/Sell Value: 1/3] ===============================================
+
+Force of Will [MED]                       0.87                
+Moat [MED]                                0.23                
+Chains of Mephistopheles [MED]            0.14                
+Winter Orb [MED]                          0.09                
+Sylvan Library [MED]                      0.055               
+Nevinyrral's Disk [MED]                   0.048               
+Berserk [MED]                             0.046               
+Contagion [MED]                           0.042               
+Armageddon [MED]                          0.036               
+Thawing Glaciers [MED]                    0.032               
+Diamond Valley [MED]                      0.024               
+Ivory Tower [MED]                         0.022               
+Ball Lightning [MED]                      0.018               
+Pox [MED]                                 0.016               
+Mana Flare [MED]                          0.016               
+Vesuvan Doppelganger [MED]                0.014               
+Jokulhaups [MED]                          0.012               
+Illusions of Grandeur [MED]               0.01                
+Forcefield [MED]                          0.01                
+Ankh of Mishra [MED]                      0.008               
+
+=== Masters Edition II === [Total Buy/Sell Value: 4/6] ============================================
+
+Underground Sea [ME2]                     0.93                
+Tundra [ME2]                              0.89                
+Imperial Recruiter [ME2]                  0.75                
+Helm of Obedience [ME2]                   0.44                
+Mana Crypt [ME2]                          0.35                
+Savannah [ME2]                            0.21                
+Badlands [ME2]                            0.19                
+Taiga [ME2]                               0.18                
+Imperial Seal [ME2]                       0.14                
+Temporal Manipulation [ME2]               0.07                
+Glacial Chasm [ME2]                       0.05                
+Ravages of War [ME2]                      0.028               
+Necropotence [ME2]                        0.016               
+Pyrokinesis [ME2]                         0.014               
+
+=== Mirage === [Total Buy/Sell Value: 4/6] ========================================================
+
+Lion's Eye Diamond [MI]                   1.36                
+Phyrexian Dreadnought [MI]                0.26                
+Shallow Grave [MI]                        0.22                
+Cursed Totem [MI]                         0.11                
+Flash [MI]                                0.08                
+Zirilan of the Claw [MI]                  0.032               
+Early Harvest [MI]                        0.02                
+Forsaken Wastes [MI]                      0.006               
+Lure of Prey [MI]                         0.006               
+
+=== Visions === [Total Buy/Sell Value: 3/4] =======================================================
+
+Natural Order [VI]                        0.72                
+Undiscovered Paradise [VI]                0.24                
+Vampiric Tutor [VI]                       0.23                
+Anvil of Bogardan [VI]                    0.17                
+Tithe [VI]                                0.06                
+Desertion [VI]                            0.042               
+City of Solitude [VI]                     0.042               
+Femeref Enchantress [VI]                  0.006               
+
+=== Weatherlight === [Total Buy/Sell Value: 1/2] ==================================================
+
+Doomsday [WL]                             0.46                
+Firestorm [WL]                            0.33                
+Null Rod [WL]                             0.24                
+Winding Canyons [WL]                      0.06                
+Mana Web [WL]                             0.06                
+Peacekeeper [WL]                          0.048               
+Serenity [WL]                             0.044               
+Lotus Vale [WL]                           0.036               
+Scorched Ruins [WL]                       0.018               
+Goblin Bomb [WL]                          0.016               
+
+=== Invasion === [Total Buy/Sell Value: 1/2] ======================================================
+
+Collective Restraint [IN]                 0.09                
+Absorb [IN]                               0.085               
+Hanna, Ship's Navigator [IN]              0.08                
+Captain Sisay [IN]                        0.07                
+Phyrexian Altar [IN]                      0.065               
+Planar Portal [IN]                        0.065               
+Artifact Mutation [IN]                    0.048               
+Rout [IN]                                 0.046               
+Crosis, the Purger [IN]                   0.036               
+Dueling Grounds [IN]                      0.032               
+Saproling Symbiosis [IN]                  0.028               
+Empress Galina [IN]                       0.024               
+Aura Mutation [IN]                        0.024               
+Undermine [IN]                            0.024               
+Dromar, the Banisher [IN]                 0.018               
+Twilight's Call [IN]                      0.018               
+Do or Die [IN]                            0.016               
+Reya Dawnbringer [IN]                     0.014               
+Elvish Champion [IN]                      0.014               
+Tsabo's Web [IN]                          0.008               
+Kangee, Aerie Keeper [IN]                 0.008               
+Blazing Specter [IN]                      0.008               
+Urza's Rage [IN]                          0.006               
+
+=== Planeshift === [Total Buy/Sell Value: 0/0] ====================================================
+
+Orim's Chant [PS]                         0.075               
+Eladamri's Call [PS]                      0.07                
+Diabolic Intent [PS]                      0.036               
+Phyrexian Tyranny [PS]                    0.024               
+Meddling Mage [PS]                        0.014               
+Nemata, Grove Guardian [PS]               0.012               
+Lord of the Undead [PS]                   0.008               
+
+=== Apocalypse === [Total Buy/Sell Value: 3/4] ====================================================
+
+Vindicate [AP]                            0.76                
+Pernicious Deed [AP]                      0.33                
+Phyrexian Arena [AP]                      0.22                
+Shivan Reef [AP]                          0.12                
+Yavimaya Coast [AP]                       0.012               
+Llanowar Wastes [AP]                      0.01                
+Spiritmonger [AP]                         0.01                
+Battlefield Forge [AP]                    0.008               
+Mystic Snake [AP]                         0.008               
+
+=== Odyssey === [Total Buy/Sell Value: 2/4] =======================================================
+
+Entomb [OD]                               0.36                
+Divert [OD]                               0.12                
+Crystal Quarry [OD]                       0.12                
+Karmic Justice [OD]                       0.11                
+Deserted Temple [OD]                      0.11                
+Decimate [OD]                             0.1                 
+Squirrel Mob [OD]                         0.095               
+Petrified Field [OD]                      0.07                
+Patron Wizard [OD]                        0.07                
+Tarnished Citadel [OD]                    0.046               
+Darkwater Catacombs [OD]                  0.034               
+Time Stretch [OD]                         0.026               
+Nut Collector [OD]                        0.026               
+Chance Encounter [OD]                     0.024               
+Braids, Cabal Minion [OD]                 0.024               
+Terravore [OD]                            0.022               
+Gravestorm [OD]                           0.02                
+Vampiric Dragon [OD]                      0.018               
+Extract [OD]                              0.016               
+Skycloud Expanse [OD]                     0.016               
+Shadowblood Ridge [OD]                    0.016               
+Mossfire Valley [OD]                      0.014               
+New Frontiers [OD]                        0.012               
+Sungrass Prairie [OD]                     0.012               
+Iridescent Angel [OD]                     0.01                
+Traumatize [OD]                           0.01                
+Krosan Beast [OD]                         0.01                
+Devoted Caretaker [OD]                    0.01                
+Kirtar's Wrath [OD]                       0.008               
+Lieutenant Kirtar [OD]                    0.006               
+
+=== Torment === [Total Buy/Sell Value: 0/0] =======================================================
+
+Grim Lavamancer [TOR]                     0.09                
+Ichorid [TOR]                             0.046               
+Parallel Evolution [TOR]                  0.044               
+Llawan, Cephalid Empress [TOR]            0.008               
+
+=== Judgment === [Total Buy/Sell Value: 0/0] ======================================================
+
+Living Wish [JUD]                         0.08                
+Burning Wish [JUD]                        0.06                
+Cunning Wish [JUD]                        0.055               
+Solitary Confinement [JUD]                0.028               
+Test of Endurance [JUD]                   0.016               
+Mirari's Wake [JUD]                       0.016               
+Balthor the Defiled [JUD]                 0.008               
+Spelljack [JUD]                           0.008               
+
+=== Onslaught === [Total Buy/Sell Value: 4/6] =====================================================
+
+Flooded Strand [ONS]                      0.74                
+Polluted Delta [ONS]                      0.54                
+Wooded Foothills [ONS]                    0.33                
+Bloodstained Mire [ONS]                   0.3                 
+Windswept Heath [ONS]                     0.26                
+Goblin Sharpshooter [ONS]                 0.034               
+Goblin Piledriver [ONS]                   0.032               
+Patriarch's Bidding [ONS]                 0.03                
+Enchantress's Presence [ONS]              0.026               
+Kamahl, Fist of Krosa [ONS]               0.018               
+Weathered Wayfarer [ONS]                  0.016               
+Arcanis the Omnipotent [ONS]              0.008               
+Blatant Thievery [ONS]                    0.008               
+
+=== Legions === [Total Buy/Sell Value: 0/0] =======================================================
+
+Toxin Sliver [LGN]                        0.05                
+Scion of Darkness [LGN]                   0.014               
+Brood Sliver [LGN]                        0.012               
+Akroma, Angel of Wrath [LGN]              0.012               
+Seedborn Muse [LGN]                       0.01                
+Essence Sliver [LGN]                      0.008               
+
+=== Scourge === [Total Buy/Sell Value: 0/0] =======================================================
+
+Stifle [SCG]                              0.15                
+Decree of Pain [SCG]                      0.065               
+Sulfuric Vortex [SCG]                     0.048               
+Xantid Swarm [SCG]                        0.038               
+Sliver Overlord [SCG]                     0.036               
+Mind's Desire [SCG]                       0.012               
+Forgotten Ancient [SCG]                   0.01                
+Eternal Dragon [SCG]                      0.008               
+
+=== Mirrodin === [Total Buy/Sell Value: 1/2] ======================================================
+
+Oblivion Stone [MRD]                      0.38                
+Chrome Mox [MRD]                          0.33                
+Chalice of the Void [MRD]                 0.19                
+Goblin Charbelcher [MRD]                  0.14                
+Glimmervoid [MRD]                         0.085               
+Mesmeric Orb [MRD]                        0.038               
+Damping Matrix [MRD]                      0.038               
+Mindslaver [MRD]                          0.032               
+Solemn Simulacrum [MRD]                   0.03                
+Extraplanar Lens [MRD]                    0.024               
+Tooth and Nail [MRD]                      0.024               
+Mind's Eye [MRD]                          0.022               
+Duplicant [MRD]                           0.012               
+Platinum Angel [MRD]                      0.006               
+Sculpting Steel [MRD]                     0.006               
+
+=== Darksteel === [Total Buy/Sell Value: 1/2] =====================================================
+
+Sword of Fire and Ice [DST]               0.46                
+Sword of Light and Shadow [DST]           0.21                
+Arcbound Ravager [DST]                    0.2                 
+Blinkmoth Nexus [DST]                     0.16                
+Sundering Titan [DST]                     0.14                
+Mycosynth Lattice [DST]                   0.14                
+Memnarch [DST]                            0.05                
+Serum Powder [DST]                        0.05                
+Trinisphere [DST]                         0.036               
+Reshape [DST]                             0.024               
+Darksteel Colossus [DST]                  0.016               
+Well of Lost Dreams [DST]                 0.01                
+Darksteel Forge [DST]                     0.01                
+Darksteel Reactor [DST]                   0.008               
+
+=== Fifth Dawn === [Total Buy/Sell Value: 2/4] ====================================================
+
+Crucible of Worlds [5DN]                  0.77                
+Auriok Champion [5DN]                     0.6                 
+Vedalken Shackles [5DN]                   0.42                
+Engineered Explosives [5DN]               0.38                
+Staff of Domination [5DN]                 0.21                
+Mycosynth Golem [5DN]                     0.055               
+Beacon of Unrest [5DN]                    0.044               
+Acquire [5DN]                             0.042               
+Fist of Suns [5DN]                        0.04                
+Beacon of Tomorrows [5DN]                 0.022               
+Vedalken Orrery [5DN]                     0.022               
+Beacon of Immortality [5DN]               0.018               
+Helm of Kaldra [5DN]                      0.016               
+Silent Arbiter [5DN]                      0.014               
+Bringer of the Blue Dawn [5DN]            0.012               
+Beacon of Creation [5DN]                  0.01                
+Doubling Cube [5DN]                       0.008               
+Endless Whispers [5DN]                    0.006               
+
+=== Champions of Kamigawa === [Total Buy/Sell Value: 1/2] =========================================
+
+Kiki-Jiki, Mirror Breaker [CHK]           0.48                
+Azusa, Lost but Seeking [CHK]             0.24                
+Gifts Ungiven [CHK]                       0.14                
+Through the Breach [CHK]                  0.11                
+Glimpse of Nature [CHK]                   0.1                 
+Boseiju, Who Shelters All [CHK]           0.095               
+Forbidden Orchard [CHK]                   0.09                
+Minamo, School at Water's Edge [CHK]      0.028               
+Eiganjo Castle [CHK]                      0.024               
+Nezumi Shortfang [CHK]                    0.012               
+Azami, Lady of Scrolls [CHK]              0.01                
+Shizo, Death's Storehouse [CHK]           0.008               
+Kokusho, the Evening Star [CHK]           0.008               
+Marrow-Gnawer [CHK]                       0.008               
+Konda's Banner [CHK]                      0.006               
+
+=== Betrayers of Kamigawa === [Total Buy/Sell Value: 3/5] =========================================
+
+Threads of Disloyalty [BOK]               0.78                
+Umezawa's Jitte [BOK]                     0.16                
+Goryo's Vengeance [BOK]                   0.14                
+Tendo Ice Bridge [BOK]                    0.09                
+Disrupting Shoal [BOK]                    0.06                
+Ink-Eyes, Servant of Oni [BOK]            0.034               
+Kira, Great Glass-Spinner [BOK]           0.034               
+Sickening Shoal [BOK]                     0.008               
+Final Judgment [BOK]                      0.006               
+
+=== Saviors of Kamigawa === [Total Buy/Sell Value: 1/2] ===========================================
+
+Mikokoro, Center of the Sea [SOK]         0.25                
+Kataki, War's Wage [SOK]                  0.2                 
+Enduring Ideal [SOK]                      0.18                
+Erayo, Soratami Ascendant [SOK]           0.15                
+Kami of the Crescent Moon [SOK]           0.13                
+Oboro, Palace in the Clouds [SOK]         0.09                
+Sakashima the Impostor [SOK]              0.08                
+Pithing Needle [SOK]                      0.044               
+Miren, the Moaning Well [SOK]             0.03                
+Rune-Tail, Kitsune Ascendant [SOK]        0.028               
+Michiko Konda, Truth Seeker [SOK]         0.024               
+Eternal Dominion [SOK]                    0.02                
+Maga, Traitor to Mortals [SOK]            0.014               
+Promise of Bunrei [SOK]                   0.014               
+Hidetsugu's Second Rite [SOK]             0.008               
+Kagemaro, First to Suffer [SOK]           0.006               
+Choice of Damnations [SOK]                0.006               
+
+=== Ravnica: City of Guilds === [Total Buy/Sell Value: 2/3] =======================================
+
+Dark Confidant [RAV]                      0.74                
+Glimpse the Unthinkable [RAV]             0.17                
+Sacred Foundry [RAV]                      0.13                
+Temple Garden [RAV]                       0.13                
+Watery Grave [RAV]                        0.11                
+Shadow of Doubt [RAV]                     0.11                
+Overgrown Tomb [RAV]                      0.1                 
+Golgari Grave-Troll [RAV]                 0.09                
+Life from the Loam [RAV]                  0.09                
+Chord of Calling [RAV]                    0.07                
+Doubling Season [RAV]                     0.046               
+Birds of Paradise [RAV]                   0.034               
+Privileged Position [RAV]                 0.03                
+Cloudstone Curio [RAV]                    0.01                
+Copy Enchantment [RAV]                    0.008               
+
+=== Guildpact === [Total Buy/Sell Value: 0/1] =====================================================
+
+Steam Vents [GPT]                         0.17                
+Stomping Ground [GPT]                     0.14                
+Godless Shrine [GPT]                      0.1                 
+Leyline of the Void [GPT]                 0.04                
+Orzhov Pontiff [GPT]                      0.02                
+Debtors' Knell [GPT]                      0.02                
+Angel of Despair [GPT]                    0.012               
+Niv-Mizzet, the Firemind [GPT]            0.008               
+Burning-Tree Shaman [GPT]                 0.006               
+
+=== Dissension === [Total Buy/Sell Value: 1/1] ====================================================
+
+Breeding Pool [DIS]                       0.18                
+Infernal Tutor [DIS]                      0.17                
+Hallowed Fountain [DIS]                   0.14                
+Blood Crypt [DIS]                         0.12                
+Proclamation of Rebirth [DIS]             0.12                
+Tidespout Tyrant [DIS]                    0.04                
+Rain of Gore [DIS]                        0.022               
+Momir Vig, Simic Visionary [DIS]          0.014               
+Hide/Seek [DIS]                           0.012               
+Protean Hulk [DIS]                        0.008               
+Pride of the Clouds [DIS]                 0.006               
+Voidslime [DIS]                           0.006               
+
+=== Coldsnap === [Total Buy/Sell Value: 1/1] ======================================================
+
+Dark Depths [CSP]                         0.44                
+Zur the Enchanter [CSP]                   0.21                
+Scrying Sheets [CSP]                      0.18                
+Braid of Fire [CSP]                       0.05                
+Thrumming Stone [CSP]                     0.044               
+Fury of the Horde [CSP]                   0.042               
+Commandeer [CSP]                          0.03                
+Haakon, Stromgald Scourge [CSP]           0.03                
+Arcum Dagsson [CSP]                       0.028               
+Ohran Viper [CSP]                         0.014               
+Darien, King of Kjeldor [CSP]             0.012               
+Phyrexian Soulgorger [CSP]                0.008               
+Adarkar Valkyrie [CSP]                    0.006               
+
+=== Time Spiral === [Total Buy/Sell Value: 0/1] ===================================================
+
+Vesuva [TSP]                              0.12                
+Living End [TSP]                          0.055               
+Ancestral Vision [TSP]                    0.04                
+Academy Ruins [TSP]                       0.028               
+Lotus Bloom [TSP]                         0.028               
+Teferi, Mage of Zhalfir [TSP]             0.014               
+Flagstones of Trokair [TSP]               0.014               
+Gauntlet of Power [TSP]                   0.01                
+
+=== Timeshifted === [Total Buy/Sell Value: 1/2] ===================================================
+
+Lord of Atlantis [TSB]                    0.38                
+Gemstone Mine [TSB]                       0.35                
+Pendelhaven [TSB]                         0.11                
+Serrated Arrows [TSB]                     0.1                 
+The Rack [TSB]                            0.07                
+Mystic Snake [TSB]                        0.012               
+Avalanche Riders [TSB]                    0.008               
+
+=== Planar Chaos === [Total Buy/Sell Value: 1/2] ==================================================
+
+Damnation [PLC]                           0.37                
+Urborg, Tomb of Yawgmoth [PLC]            0.055               
+Porphyry Nodes [PLC]                      0.012               
+Extirpate [PLC]                           0.008               
+
+=== Future Sight === [Total Buy/Sell Value: 14/20] ================================================
+
+Tarmogoyf [FUT]                           4.8                 
+Grove of the Burnwillows [FUT]            0.75                
+Horizon Canopy [FUT]                      0.55                
+Daybreak Coronet [FUT]                    0.47                
+Magus of the Moon [FUT]                   0.21                
+Venser, Shaper Savant [FUT]               0.15                
+Pact of Negation [FUT]                    0.14                
+Slaughter Pact [FUT]                      0.13                
+River of Tears [FUT]                      0.07                
+Summoner's Pact [FUT]                     0.065               
+Sliver Legion [FUT]                       0.046               
+Coalition Relic [FUT]                     0.032               
+Bridge from Below [FUT]                   0.02                
+Graven Cairns [FUT]                       0.016               
+Akroma's Memorial [FUT]                   0.016               
+Cloud Key [FUT]                           0.014               
+Korlash, Heir to Blackblade [FUT]         0.012               
+Tombstalker [FUT]                         0.006               
+Glittering Wish [FUT]                     0.006               
+Nimbus Maze [FUT]                         0.006               
+
+=== Lorwyn === [Total Buy/Sell Value: 4/6] ========================================================
+
+Cryptic Command [LRW]                     1.04                
+Thoughtseize [LRW]                        0.38                
+Windbrisk Heights [LRW]                   0.14                
+Doran, the Siege Tower [LRW]              0.09                
+Garruk Wildspeaker [LRW]                  0.075               
+Sower of Temptation [LRW]                 0.065               
+Gaddock Teeg [LRW]                        0.055               
+Primal Command [LRW]                      0.048               
+Jace Beleren [LRW]                        0.038               
+Wanderwine Hub [LRW]                      0.034               
+Ajani Goldmane [LRW]                      0.026               
+Mistbind Clique [LRW]                     0.012               
+Liliana Vess [LRW]                        0.01                
+Vigor [LRW]                               0.008               
+Thorn of Amethyst [LRW]                   0.008               
+
+=== Morningtide === [Total Buy/Sell Value: 8/11] ==================================================
+
+Vendilion Clique [MOR]                    2.35                
+Bitterblossom [MOR]                       0.92                
+Scapeshift [MOR]                          0.7                 
+Mutavault [MOR]                           0.26                
+Idyllic Tutor [MOR]                       0.18                
+Preeminent Captain [MOR]                  0.016               
+Shared Animosity [MOR]                    0.016               
+Leaf-Crowned Elder [MOR]                  0.012               
+Murmuring Bosk [MOR]                      0.008               
+Reveillark [MOR]                          0.006               
+
+=== Shadowmoor === [Total Buy/Sell Value: 4/7] ====================================================
+
+Fulminator Mage [SHM]                     1                   
+Wilt-Leaf Liege [SHM]                     0.16                
+Runed Halo [SHM]                          0.13                
+Sunken Ruins [SHM]                        0.12                
+Prismatic Omen [SHM]                      0.1                 
+Reflecting Pool [SHM]                     0.095               
+Mystic Gate [SHM]                         0.095               
+Vexing Shusher [SHM]                      0.08                
+Fire-Lit Thicket [SHM]                    0.07                
+Painter's Servant [SHM]                   0.065               
+Greater Auramancy [SHM]                   0.06                
+Fracturing Gust [SHM]                     0.042               
+Wooded Bastion [SHM]                      0.03                
+Rhys the Redeemed [SHM]                   0.02                
+Graven Cairns [SHM]                       0.018               
+Sygg, River Cutthroat [SHM]               0.012               
+Mana Reflection [SHM]                     0.012               
+Reaper King [SHM]                         0.006               
+Deus of Calamity [SHM]                    0.006               
+
+=== Eventide === [Total Buy/Sell Value: 5/8] ======================================================
+
+Twilight Mire [EVE]                       1.08                
+Cascade Bluffs [EVE]                      0.56                
+Flooded Grove [EVE]                       0.34                
+Regal Force [EVE]                         0.26                
+Fetid Heath [EVE]                         0.18                
+Rugged Prairie [EVE]                      0.11                
+Bloom Tender [EVE]                        0.1                 
+Creakwood Liege [EVE]                     0.09                
+Hallowed Burial [EVE]                     0.09                
+Balefire Liege [EVE]                      0.08                
+Primalcrux [EVE]                          0.065               
+Overbeing of Myth [EVE]                   0.06                
+Glen Elendra Archmage [EVE]               0.048               
+Scarecrone [EVE]                          0.048               
+Deathbringer Liege [EVE]                  0.028               
+Endless Horizons [EVE]                    0.026               
+Murkfiend Liege [EVE]                     0.026               
+Stillmoon Cavalier [EVE]                  0.024               
+Talara's Battalion [EVE]                  0.022               
+Helix Pinnacle [EVE]                      0.016               
+Rise of the Hobgoblins [EVE]              0.016               
+Wake Thrasher [EVE]                       0.016               
+Sapling of Colfenor [EVE]                 0.014               
+Necroskitter [EVE]                        0.014               
+Figure of Destiny [EVE]                   0.012               
+Divinity of Pride [EVE]                   0.01                
+Deity of Scars [EVE]                      0.01                
+Dominus of Fealty [EVE]                   0.01                
+
+=== Vanguard === [Total Buy/Sell Value: 2/4] ======================================================
+
+Momir Vig, Simic Visionary (Alt.) [VAN]   0.43                
+Momir Vig, Simic Visionary [VAN]          0.37                
+Tradewind Rider [VAN]                     0.36                
+Phyrexian Negator [VAN]                   0.13                
+Arcbound Overseer [VAN]                   0.1                 
+Goblin Welder [VAN]                       0.095               
+Necropotence [VAN]                        0.075               
+Eight-and-a-Half-Tails [VAN]              0.06                
+Erhnam Djinn (Alt.) [VAN]                 0.05                
+Chronatog [VAN]                           0.05                
+Frenetic Efreet [VAN]                     0.048               
+Serra Angel (Alt.) [VAN]                  0.044               
+Platinum Angel [VAN]                      0.042               
+Ink-Eyes, Servant of Oni [VAN]            0.036               
+Sakashima the Impostor [VAN]              0.036               
+Etched Oracle [VAN]                       0.032               
+Morinfen [VAN]                            0.03                
+Prodigal Sorcerer (Alt.) [VAN]            0.028               
+Hermit Druid [VAN]                        0.024               
+Kaalia of the Vast [VAN]                  0.024               
+Rith, the Awakener [VAN]                  0.018               
+Royal Assassin [VAN]                      0.014               
+Jaya Ballard [VAN]                        0.014               
+Commander Greven il-Vec [VAN]             0.014               
+Word of Command [VAN]                     0.012               
+Aeon Chronicler [VAN]                     0.01                
+The Slayer [VAN]                          0.01                
+Avatar of Woe [VAN]                       0.008               
+Sisters of Stone Death [VAN]              0.008               
+Battle the Horde [VAN]                    0.008               
+Ashling, the Extinguisher [VAN]           0.008               
+Haakon, Stromgald Scourge [VAN]           0.006               
+
+=== Promotional === [Total Buy/Sell Value: 36/52] =================================================
+
+Underground Sea [PRM]                     5.55                
+Vindicate [PRM]                           3.7                 
+Batterskull [PRM]                         1.76                
+Force of Will [PRM]                       1.48                
+Pernicious Deed [PRM]                     1.44                
+Vendilion Clique [PRM]                    1                   
+Mutavault [PRM]                           0.89                
+Cryptic Command [PRM]                     0.81                
+Bitterblossom [PRM]                       0.78                
+Lion's Eye Diamond [PRM]                  0.71                
+Wrath of God [PRM]                        0.71                
+Damnation [PRM]                           0.69                
+Tropical Island [PRM]                     0.66                
+Stifle [PRM]                              0.57                
+Celestial Colonnade [PRM]                 0.52                
+Maze of Ith [PRM]                         0.48                
+Figure of Destiny [PRM]                   0.44                
+Emrakul, the Aeons Torn [PRM]             0.44                
+Birds of Paradise [PRM]                   0.43                
+Restoration Angel [PRM]                   0.39                
+Lord of Atlantis [PRM]                    0.35                
+Phyrexian Metamorph [PRM]                 0.34                
+Surgical Extraction [PRM]                 0.34                
+Natural Order [PRM]                       0.33                
+Intuition [PRM]                           0.32                
+Chrome Mox [PRM]                          0.27                
+Bloodstained Mire [PRM]                   0.26                
+Jace Beleren [PRM]                        0.25                
+Armageddon [PRM]                          0.22                
+Lotus Bloom [PRM]                         0.21                
+Savannah [PRM]                            0.18                
+Scrubland [PRM]                           0.17                
+Orim's Chant [PRM]                        0.17                
+Wurmcoil Engine [PRM]                     0.16                
+Plateau [PRM]                             0.16                
+Lotus Cobra [PRM]                         0.16                
+Ajani Goldmane [PRM]                      0.15                
+Goblin Piledriver [PRM]                   0.15                
+Sword of Fire and Ice [PRM]               0.15                
+Doran, the Siege Tower [PRM]              0.15                
+Yawgmoth's Will [PRM]                     0.15                
+Korlash, Heir to Blackblade [PRM]         0.14                
+Thawing Glaciers [PRM]                    0.14                
+Black Sun's Zenith [PRM]                  0.14                
+Grim Lavamancer [PRM]                     0.14                
+Exalted Angel [PRM]                       0.14                
+Bribery [PRM]                             0.14                
+Ink-Eyes, Servant of Oni [PRM]            0.13                
+Cunning Wish [PRM]                        0.13                
+Supreme Verdict [PRM]                     0.13                
+Goblin Guide [PRM]                        0.11                
+Maelstrom Pulse [PRM]                     0.1                 
+Psionic Blast [PRM]                       0.09                
+Phyrexian Dreadnought [PRM]               0.09                
+Time Warp [PRM]                           0.09                
+Eternal Dragon [PRM]                      0.09                
+Regrowth [PRM]                            0.09                
+Land Tax [PRM]                            0.085               
+Emeria Angel [PRM]                        0.085               
+Dungrove Elder [PRM]                      0.085               
+Tempered Steel [PRM]                      0.075               
+Dragon Broodmother [PRM]                  0.07                
+Helm of Kaldra [PRM]                      0.07                
+Umezawa's Jitte [PRM]                     0.07                
+Decree of Justice [PRM]                   0.065               
+Garruk Wildspeaker [PRM]                  0.065               
+Sun Titan [PRM]                           0.065               
+Mirran Crusader [PRM]                     0.06                
+Gravecrawler [PRM]                        0.06                
+Avatar of Discord [PRM]                   0.06                
+Hero of Bladehold [PRM]                   0.06                
+Staff of Nin [PRM]                        0.055               
+Voidslime [PRM]                           0.055               
+Mind's Eye [PRM]                          0.05                
+Chandra's Phoenix [PRM]                   0.05                
+Shield of Kaldra [PRM]                    0.05                
+Mondronen Shaman [PRM]                    0.05                
+Ludevic's Test Subject [PRM]              0.048               
+Sword of Kaldra [PRM]                     0.048               
+Spiritmonger [PRM]                        0.044               
+Living Wish [PRM]                         0.042               
+Deadbridge Goliath [PRM]                  0.034               
+Djinn Illuminatus [PRM]                   0.034               
+Day of Judgment [PRM]                     0.032               
+Ratchet Bomb [PRM]                        0.032               
+Oros, the Avenger [PRM]                   0.03                
+Joraga Warcaller [PRM]                    0.028               
+Vampire Nocturnus [PRM]                   0.026               
+Ryusei, the Falling Star [PRM]            0.022               
+Pyrokinesis [PRM]                         0.022               
+Sylvan Library [PRM]                      0.02                
+Gleancrawler [PRM]                        0.02                
+Kiyomaro, First to Stand [PRM]            0.018               
+Control Magic [PRM]                       0.018               
+Sliver Queen [PRM]                        0.014               
+Elvish Champion [PRM]                     0.012               
+Balance [PRM]                             0.012               
+Serra Avenger [PRM]                       0.01                
+Gleemox [PRM]                             0.01                
+Niv-Mizzet, the Firemind [PRM]            0.01                
+Mirari's Wake [PRM]                       0.008               
+Nessian Wilds Ravager [PRM]               0.008               
+Beast of Burden [PRM]                     0.008               
+Wheel of Fortune [PRM]                    0.008               
+Hermit Druid [PRM]                        0.008               
+Honor of the Pure [PRM]                   0.008               
+Sylan Caryatid [PRM]                      0.006               
+Rampaging Baloths [PRM]                   0.006               
+Sylvan Caryatid [PRM]                     0.006               
