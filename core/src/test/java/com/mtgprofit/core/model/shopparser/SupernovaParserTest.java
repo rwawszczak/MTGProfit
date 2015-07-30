@@ -12,7 +12,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
-import static com.mtgprofit.core.model.Expansion.*;
+import static com.mtgprofit.core.model.Expansion.DTK;
+import static com.mtgprofit.core.model.Expansion.KTK;
 import static junit.framework.Assert.assertTrue;
 
 public class SupernovaParserTest {
@@ -45,7 +46,6 @@ public class SupernovaParserTest {
 
     @Test
     public void getBotsWhenSellPrice() throws Exception {
-        List<Expansion> expansions= getExpansionList(DTK, KTK, VMA);
         Map<String,Card> cards = parser.getCards(expansions,new BigDecimal(1));
 
         for(String cardName : cards.keySet())

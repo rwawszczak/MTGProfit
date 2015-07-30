@@ -45,16 +45,4 @@ public class Card {
     public Shop getShop() {
         return shop;
     }
-
-    @Override
-    public String toString() {
-        return "Card{" +
-                "cardName='" + cardName + '\'' +
-                ", expansion=" + expansion +
-                ", buyPrice=" + buyPrice +
-                ", sellPrice=" + sellPrice +
-                ", bot='" + bot + '\'' +
-                ", shop=" + shop +
-                '}';
-    }
 }
