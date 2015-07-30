@@ -33,7 +33,7 @@ public class SupernovaParser implements ShopParser {
             while ((inputLine = in.readLine()) != null)
                 if(inputLine.matches(getExpRegex(expansions))&&aboveMinPrice(inputLine,minPrice)) {
                     Card c = parseCard(inputLine);
-                    cards.put(c.getCardName(),c);
+                    cards.put(c.getCardName()+c.getExpansion(),c);
                 }
             in.close();
         } catch (IOException e) {
@@ -62,21 +62,21 @@ public class SupernovaParser implements ShopParser {
         Matcher m = getPricePattern().matcher(inputLine);
         if(bot == null) {
             if(m.find())
-                buy = new BigDecimal(m.group(0));
+                buy = new BigDecimal(m.group(1));
         }
         else {
             if(m.find())
-                sell = new BigDecimal(m.group(0));
+                sell = new BigDecimal(m.group(1));
             if(m.find()) {
                 buy = sell;
-                sell = new BigDecimal(m.group(0));
+                sell = new BigDecimal(m.group(1));
             }
         }
         return new Card(name,exp,buy,sell,bot,Shop.SUPERNOVABOTS);
     }
 
     private Pattern getPricePattern() {
-        return Pattern.compile("([0-9]+\\.?[0-9]*)");
+        return Pattern.compile("\\s+([0-9]+\\.?[0-9]*)");
     }
 
     private String getBot(String inputLine) {

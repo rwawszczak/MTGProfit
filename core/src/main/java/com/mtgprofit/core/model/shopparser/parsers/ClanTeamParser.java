@@ -36,30 +36,29 @@ public class ClanTeamParser implements ShopParser {
         String address = getExpansionAddress(expansion.getNames()[0]);
         Map<String,Card> cards = new HashMap<>();
         String content = getContent(address);
+        if(content == null) return cards;//TODO: log warning
+
         Matcher cm = getCardMatcher(content);
 
         int cardId=0;
         while(cm.find()) {
-            Matcher pm = getPriceMatcher(content, 2,cardId);
-            if(pm.find()&&Double.parseDouble(pm.group(1))>=minPrice.doubleValue()){
+            Matcher buyMatcher = getPriceMatcher(content, 2,cardId);
+            Matcher sellMatcher = getPriceMatcher(content, 3,cardId);
+            boolean buyFound = buyMatcher.find();
+            boolean sellFound = sellMatcher.find();
+            if((buyFound||sellFound)&&(Double.parseDouble(buyMatcher.group(1))>=minPrice.doubleValue()||Double.parseDouble(sellMatcher.group(1))>=minPrice.doubleValue())){
                 String name = cm.group(1);
                 String bot = cm.group(2);
-                BigDecimal buy = new BigDecimal(pm.group(1));
-                BigDecimal sell = new BigDecimal(getSellString(content,cardId));
+                BigDecimal buy = buyFound ? new BigDecimal(buyMatcher.group(1)) : null;
+                BigDecimal sell = sellFound ? new BigDecimal(sellMatcher.group(1)) : null;
 
                 Card c = new Card(name, expansion, buy, sell, bot, Shop.CLANTEAM);
-                cards.put(c.getCardName(),c);
+                cards.put(c.getCardName()+c.getExpansion(),c);
             }
             cardId++;
         }
 
         return cards;
-    }
-
-    private String getSellString(String content, int cardId) {
-        Matcher sellMatcher = getPriceMatcher(content,3,cardId);
-        sellMatcher.find();
-        return sellMatcher.group(1);
     }
 
     private Matcher getCardMatcher(String content) {
