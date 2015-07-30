@@ -2,6 +2,7 @@ package com.mtgprofit.core.model.shopparser;
 
 import com.mtgprofit.core.model.Card;
 import com.mtgprofit.core.model.Expansion;
+import com.mtgprofit.core.model.shopparser.parsers.ClanTeamParser;
 import org.junit.Test;
 
 import java.io.File;
@@ -10,12 +11,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import static com.mtgprofit.core.model.Expansion.*;
+import static com.mtgprofit.core.model.Expansion.DTK;
 import static junit.framework.Assert.assertTrue;
 
-public class SupernovaParserTest {
-    SupernovaParser parser = getTestParser();
-    List<Expansion> expansions= getExpansionList(DTK, KTK);
+public class ClanTeamParserTest {
+    ClanTeamParser parser = getTestParser();
+    List<Expansion> expansions= getExpansionList(DTK);
 
     @Test
     public void getsSomeCards() throws Exception {
@@ -29,7 +30,7 @@ public class SupernovaParserTest {
         List<Card> cards = parser.getCards(expansions,new BigDecimal(0));
 
         for(Card c : cards)
-            assertTrue(c.getExpansion()==DTK||c.getExpansion()==KTK);
+            assertTrue(c.getExpansion()==DTK);
     }
 
     @Test
@@ -62,11 +63,11 @@ public class SupernovaParserTest {
         return  expansionList;
     }
 
-    private SupernovaParser getTestParser() {
-        return new SupernovaParser(){
+    private ClanTeamParser getTestParser() {
+        return new ClanTeamParser(){
             @Override
-            protected String getAddress() {
-                return new File("src/test/resources/supernova.txt").toURI().toString();
+            protected String getExpansionAddress(String expansionName) {
+                return new File("src/test/resources/ClanTeamDTK.html").toURI().toString();
             }
         };
     }
