@@ -44,8 +44,7 @@ public class SupernovaParser implements ShopParser {
     }
 
     private boolean aboveMinPrice(String inputLine, BigDecimal minPrice) {
-        Pattern p = Pattern.compile("([0-9]+\\.?[0-9]*)");
-        Matcher m = p.matcher(inputLine);
+        Matcher m = getPricePattern().matcher(inputLine);
 
         return m.find() && Double.parseDouble(m.group(0)) >= minPrice.doubleValue();
     }
@@ -53,8 +52,35 @@ public class SupernovaParser implements ShopParser {
     private Card parseCard(String inputLine) {
         String name = getCardName(inputLine);
         Expansion exp = getExpansion(inputLine);
-        System.out.println(exp);
-        System.out.println(inputLine); //TODO: parse input
+        String bot = getBot(inputLine);
+        BigDecimal buy = null;
+        BigDecimal sell = null;
+        Matcher m = getPricePattern().matcher(inputLine);
+        if(bot == null) {
+            if(m.find())
+                buy = new BigDecimal(m.group(0));
+        }
+        else {
+            if(m.find())
+                sell = new BigDecimal(m.group(0));
+            if(m.find()) {
+                buy = sell;
+                sell = new BigDecimal(m.group(0));
+            }
+        }
+        return new Card(name,exp,buy,sell,bot,Shop.SUPERNOVABOTS);
+    }
+
+    private Pattern getPricePattern() {
+        return Pattern.compile("([0-9]+\\.?[0-9]*)");
+    }
+
+    private String getBot(String inputLine) {
+        Pattern p = Pattern.compile("(([a-zA-Z0-9]+\\[[0-9]+\\] )+)");
+        Matcher m = p.matcher(inputLine);
+        if(m.find()) {
+            return m.group(0);
+        }
         return null;
     }
 

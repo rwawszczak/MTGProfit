@@ -7,17 +7,17 @@ import java.math.BigDecimal;
  */
 public class Card {
     private final String cardName;
-    private final String expansionName;
-    private final BigDecimal sellPrice;
+    private final Expansion expansion;
     private final BigDecimal buyPrice;
+    private final BigDecimal sellPrice;
     private final String bot;
-    private final String shop;
+    private final Shop shop;
 
-    public Card(String cardName, String expansionName, BigDecimal sellPrice, BigDecimal buyPrice, String bot, String shop) {
+    public Card(String cardName, Expansion expansion, BigDecimal buyPrice, BigDecimal sellPrice, String bot, Shop shop) {
         this.cardName = cardName;
-        this.expansionName = expansionName;
-        this.sellPrice = sellPrice;
+        this.expansion = expansion;
         this.buyPrice = buyPrice;
+        this.sellPrice = sellPrice;
         this.bot = bot;
         this.shop = shop;
     }
@@ -26,23 +26,23 @@ public class Card {
         return cardName;
     }
 
-    public String getExpansionName() {
-        return expansionName;
-    }
-
-    public BigDecimal getSellPrice() {
-        return sellPrice;
+    public Expansion getExpansion() {
+        return expansion;
     }
 
     public BigDecimal getBuyPrice() {
         return buyPrice;
     }
 
+    public BigDecimal getSellPrice() {
+        return sellPrice;
+    }
+
     public String getBot() {
         return bot;
     }
 
-    public String getShop() {
+    public Shop getShop() {
         return shop;
     }
 }

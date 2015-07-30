@@ -1,5 +1,6 @@
 package com.mtgprofit.core.model.shopparser;
 
+import com.mtgprofit.core.model.Card;
 import com.mtgprofit.core.model.Expansion;
 import org.junit.Test;
 
@@ -10,13 +11,42 @@ import java.util.Collections;
 import java.util.List;
 
 import static com.mtgprofit.core.model.Expansion.*;
+import static junit.framework.Assert.assertTrue;
 
 public class SupernovaParserTest {
+    SupernovaParser parser = getTestParser();
+    List<Expansion> expansions= getExpansionList(DTK, KTK);
+
     @Test
-    public void testName() throws Exception {
-        SupernovaParser parser = getTestParser();
-        List<Expansion> expansions= getExpansionList(DTK, KTK);
-        parser.getCards(expansions,new BigDecimal(1));
+    public void getsCardsFromCorrectExpansion() throws Exception {
+        List<Card> cards = parser.getCards(expansions,new BigDecimal(0));
+
+        for(Card c : cards)
+            assertTrue(c.getExpansion()==DTK||c.getExpansion()==KTK);
+    }
+
+    @Test
+    public void getsCardsWithCorrectPrice() throws Exception {
+        List<Card> cards = parser.getCards(expansions,new BigDecimal(1));
+
+        for(Card c : cards)
+            assertTrue((c.getSellPrice()==null||c.getSellPrice().doubleValue()>1)||(c.getBuyPrice()==null||c.getBuyPrice().doubleValue()>1));
+    }
+
+    @Test
+    public void getBotsWhenSellPrice() throws Exception {
+        List<Card> cards = parser.getCards(expansions,new BigDecimal(1));
+
+        for(Card c : cards)
+            assertTrue((c.getSellPrice()==null&&c.getBot()==null)||(c.getSellPrice()!=null&&c.getBot()!=null));
+    }
+
+    @Test
+    public void whenNoBotsAlwaysBuyPrice() throws Exception {
+        List<Card> cards = parser.getCards(expansions,new BigDecimal(1));
+
+        for(Card c : cards)
+            assertTrue(c.getBot()!=null||c.getBuyPrice()!=null);
     }
 
     private List<Expansion> getExpansionList(Expansion... expansions) {
