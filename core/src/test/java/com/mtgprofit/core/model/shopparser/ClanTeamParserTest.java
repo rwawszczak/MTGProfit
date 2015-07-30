@@ -10,6 +10,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 
 import static com.mtgprofit.core.model.Expansion.DTK;
 import static junit.framework.Assert.assertTrue;
@@ -20,41 +21,41 @@ public class ClanTeamParserTest {
 
     @Test
     public void getsSomeCards() throws Exception {
-        List<Card> cards = parser.getCards(expansions,new BigDecimal(0));
+        Map<String,Card> cards = parser.getCards(expansions,new BigDecimal(0));
 
         assertTrue(cards.size()>0);
     }
 
     @Test
     public void getsCardsFromCorrectExpansion() throws Exception {
-        List<Card> cards = parser.getCards(expansions,new BigDecimal(0));
+        Map<String,Card> cards = parser.getCards(expansions,new BigDecimal(0));
 
-        for(Card c : cards)
-            assertTrue(c.getExpansion()==DTK);
+        for(String cardName : cards.keySet())
+            assertTrue(cards.get(cardName).getExpansion()==DTK);
     }
 
     @Test
     public void getsCardsWithCorrectPrice() throws Exception {
-        List<Card> cards = parser.getCards(expansions,new BigDecimal(1));
+        Map<String,Card> cards = parser.getCards(expansions,new BigDecimal(1));
 
-        for(Card c : cards)
-            assertTrue((c.getSellPrice()==null||c.getSellPrice().doubleValue()>1)||(c.getBuyPrice()==null||c.getBuyPrice().doubleValue()>1));
+        for(String cardName : cards.keySet())
+            assertTrue((cards.get(cardName).getSellPrice()==null||cards.get(cardName).getSellPrice().doubleValue()>1)||(cards.get(cardName).getBuyPrice()==null||cards.get(cardName).getBuyPrice().doubleValue()>1));
     }
 
     @Test
     public void getBotsWhenSellPrice() throws Exception {
-        List<Card> cards = parser.getCards(expansions,new BigDecimal(1));
+        Map<String,Card> cards = parser.getCards(expansions,new BigDecimal(1));
 
-        for(Card c : cards)
-            assertTrue((c.getSellPrice()==null&&c.getBot()==null)||(c.getSellPrice()!=null&&c.getBot()!=null));
+        for(String cardName : cards.keySet())
+            assertTrue((cards.get(cardName).getSellPrice()==null&&cards.get(cardName).getBot()==null)||(cards.get(cardName).getSellPrice()!=null&&cards.get(cardName).getBot()!=null));
     }
 
     @Test
     public void whenNoBotsAlwaysBuyPrice() throws Exception {
-        List<Card> cards = parser.getCards(expansions,new BigDecimal(1));
+        Map<String,Card> cards = parser.getCards(expansions,new BigDecimal(1));
 
-        for(Card c : cards)
-            assertTrue(c.getBot()!=null||c.getBuyPrice()!=null);
+        for(String cardName : cards.keySet())
+            assertTrue(cards.get(cardName).getBot()!=null||cards.get(cardName).getBuyPrice()!=null);
     }
 
     private List<Expansion> getExpansionList(Expansion... expansions) {

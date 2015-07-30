@@ -5,10 +5,11 @@ import com.mtgprofit.core.model.Expansion;
 
 import java.math.BigDecimal;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by wawszcza on 7/27/2015.
  */
 public interface ShopParser {
-    public List<Card> getCards(List<Expansion> expansions, BigDecimal minPrice);
+    public Map<String,Card> getCards(List<Expansion> expansions, BigDecimal minPrice);
 }

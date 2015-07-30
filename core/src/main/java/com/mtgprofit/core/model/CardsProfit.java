@@ -9,23 +9,23 @@ public class CardsProfit implements Comparable<CardsProfit> {
     private BigDecimal profit;
     private final String cardName;
     private final String expansionName;
-    private final BigDecimal sellPrice;
     private final BigDecimal buyPrice;
-    private final String sellBot;
+    private final BigDecimal sellPrice;
     private final String buyBot;
-    private final String sellShop;
+    private final String sellBot;
     private final String buyShop;
+    private final String sellShop;
 
-    public CardsProfit(BigDecimal profit, String cardName, String expansionName, BigDecimal sellPrice, BigDecimal buyPrice, String sellBot, String buyBot, String sellShop, String buyShop) {
+    public CardsProfit(BigDecimal profit, String cardName, String expansionName, BigDecimal buyPrice, BigDecimal sellPrice, String buyBot, String sellBot, String buyShop, String sellShop) {
         this.profit = profit;
         this.cardName = cardName;
         this.expansionName = expansionName;
-        this.sellPrice = sellPrice;
         this.buyPrice = buyPrice;
-        this.sellBot = sellBot;
+        this.sellPrice = sellPrice;
         this.buyBot = buyBot;
-        this.sellShop = sellShop;
+        this.sellBot = sellBot;
         this.buyShop = buyShop;
+        this.sellShop = sellShop;
     }
 
     public BigDecimal getProfit() {
@@ -56,12 +56,12 @@ public class CardsProfit implements Comparable<CardsProfit> {
         return buyBot;
     }
 
-    public String getSellShop() {
-        return sellShop;
-    }
-
     public String getBuyShop() {
         return buyShop;
+    }
+
+    public String getSellShop() {
+        return sellShop;
     }
 
     @Override

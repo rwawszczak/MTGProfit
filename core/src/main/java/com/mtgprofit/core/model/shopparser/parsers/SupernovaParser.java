@@ -1,8 +1,9 @@
-package com.mtgprofit.core.model.shopparser;
+package com.mtgprofit.core.model.shopparser.parsers;
 
 import com.mtgprofit.core.model.Card;
 import com.mtgprofit.core.model.Expansion;
 import com.mtgprofit.core.model.Shop;
+import com.mtgprofit.core.model.shopparser.ShopParser;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,8 +11,9 @@ import java.io.InputStreamReader;
 import java.math.BigDecimal;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -20,8 +22,8 @@ import java.util.regex.Pattern;
  */
 public class SupernovaParser implements ShopParser {
     @Override
-    public List<Card> getCards(List<Expansion> expansions, BigDecimal minPrice) {
-        List<Card> cards = new ArrayList<>();
+    public Map<String,Card> getCards(List<Expansion> expansions, BigDecimal minPrice) {
+        Map<String,Card> cards = new HashMap<>();
         try {
             URL url = new URL(getAddress());
             URLConnection yc = url.openConnection();
@@ -29,8 +31,10 @@ public class SupernovaParser implements ShopParser {
                     yc.getInputStream(), "UTF-8"));
             String inputLine;
             while ((inputLine = in.readLine()) != null)
-                if(inputLine.matches(getExpRegex(expansions))&&aboveMinPrice(inputLine,minPrice))
-                    cards.add(parseCard(inputLine));
+                if(inputLine.matches(getExpRegex(expansions))&&aboveMinPrice(inputLine,minPrice)) {
+                    Card c = parseCard(inputLine);
+                    cards.put(c.getCardName(),c);
+                }
             in.close();
         } catch (IOException e) {
             e.printStackTrace();

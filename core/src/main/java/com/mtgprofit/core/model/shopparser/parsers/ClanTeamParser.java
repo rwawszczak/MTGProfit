@@ -11,9 +11,9 @@ import java.io.InputStreamReader;
 import java.math.BigDecimal;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.ArrayList;
-import java.util.Collection;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -25,16 +25,16 @@ public class ClanTeamParser implements ShopParser {
     private static final String DATA_START_LINE = "var d = [[";
 
     @Override
-    public List<Card> getCards(List<Expansion> expansions, BigDecimal minPrice) {
-        List<Card> cards = new ArrayList<>();
+    public Map<String,Card> getCards(List<Expansion> expansions, BigDecimal minPrice) {
+        Map<String,Card> cards = new HashMap<>();
         for(Expansion exp : expansions)
-            cards.addAll(getExpansionCards(exp,minPrice));
+            cards.putAll(getExpansionCards(exp, minPrice));
         return cards;
     }
 
-    private Collection<? extends Card> getExpansionCards(Expansion expansion, BigDecimal minPrice) {
+    private Map<String,Card> getExpansionCards(Expansion expansion, BigDecimal minPrice) {
         String address = getExpansionAddress(expansion.getNames()[0]);
-        List<Card> cards = new ArrayList<>();
+        Map<String,Card> cards = new HashMap<>();
         String content = getContent(address);
         Matcher cm = getCardMatcher(content);
 
@@ -47,7 +47,8 @@ public class ClanTeamParser implements ShopParser {
                 BigDecimal buy = new BigDecimal(pm.group(1));
                 BigDecimal sell = new BigDecimal(getSellString(content,cardId));
 
-                cards.add(new Card(name,expansion,buy,sell,bot,Shop.CLANTEAM));
+                Card c = new Card(name, expansion, buy, sell, bot, Shop.CLANTEAM);
+                cards.put(c.getCardName(),c);
             }
             cardId++;
         }
