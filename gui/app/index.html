@@ -12,6 +12,7 @@
     </style>
     <table class="tg">
         <tr>
+            <th class="tg-031e">Index</th>
             <th class="tg-031e">Profit</th>
             <th class="tg-031e">Card name</th>
             <th class="tg-031e">Expansion</th>
@@ -23,6 +24,7 @@
             <th class="tg-031e">Buy shop</th>
         </tr>
         <tr ng-repeat="c in cards">
+            <td class="tg-031e">{{ $index + 1 }}</td>
             <td class="tg-031e">{{ c.profit | currency }}</td>
             <td class="tg-031e">{{ c.cardName }}</td>
             <td class="tg-031e">{{ c.expansionName }}</td>
