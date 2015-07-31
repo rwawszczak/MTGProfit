@@ -8,6 +8,7 @@ import com.mtgprofit.core.model.Shop;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.math.BigDecimal;
@@ -23,8 +24,9 @@ public class CardController {
     @Autowired
     CardsRetriever cardsRetriever;
 
-    @RequestMapping("/cards")
-    public List<CardsProfit> cards(@RequestParam(value="amount", defaultValue="50") int amount, @RequestParam(value="expansions", required = false)  List<Expansion> expansions, @RequestParam(value="shops", required = false)  List<Shop> shops, @RequestParam(value="minimalPrice", defaultValue="0") BigDecimal minimalPrice)
+
+    @RequestMapping("/rest/cards")
+    public @ResponseBody List<CardsProfit> cards(@RequestParam(value="amount", defaultValue="50") int amount, @RequestParam(value="expansions", required = false)  List<Expansion> expansions, @RequestParam(value="shops", required = false)  List<Shop> shops, @RequestParam(value="minimalPrice", defaultValue="0.02") BigDecimal minimalPrice)
     {
         if(expansions == null) expansions = Lists.newArrayList(Expansion.values());
         if(shops == null) shops = Lists.newArrayList(Shop.values());

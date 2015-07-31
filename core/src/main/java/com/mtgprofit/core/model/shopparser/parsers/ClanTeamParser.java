@@ -46,7 +46,7 @@ public class ClanTeamParser implements ShopParser {
             Matcher sellMatcher = getPriceMatcher(content, 3,cardId);
             boolean buyFound = buyMatcher.find();
             boolean sellFound = sellMatcher.find();
-            if((buyFound||sellFound)&&(Double.parseDouble(buyMatcher.group(1))>=minPrice.doubleValue()||Double.parseDouble(sellMatcher.group(1))>=minPrice.doubleValue())){
+            if((buyFound||sellFound)&&(Double.parseDouble(buyMatcher.group(1))>=minPrice.doubleValue())){
                 String name = cm.group(1);
                 String bot = cm.group(2);
                 BigDecimal buy = buyFound ? new BigDecimal(buyMatcher.group(1)) : null;

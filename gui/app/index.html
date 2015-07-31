@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+<body>
+
+<div ng-app="myFE" ng-controller="cardsCtrl">
+
+    <style type="text/css">
+        .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
+        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
+        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
+    </style>
+    <table class="tg">
+        <tr>
+            <th class="tg-031e">Profit</th>
+            <th class="tg-031e">Card name</th>
+            <th class="tg-031e">Expansion</th>
+            <th class="tg-031e">Sell</th>
+            <th class="tg-031e">Sell bot</th>
+            <th class="tg-031e">Buy</th>
+            <th class="tg-031e">Buy bot</th>
+            <th class="tg-031e">Sell shop</th>
+            <th class="tg-031e">Buy shop</th>
+        </tr>
+        <tr ng-repeat="c in cards">
+            <td class="tg-031e">{{ c.profit | currency }}</td>
+            <td class="tg-031e">{{ c.cardName }}</td>
+            <td class="tg-031e">{{ c.expansionName }}</td>
+            <td class="tg-031e">{{ c.sellPrice | currency }}</td>
+            <td class="tg-031e">{{ c.sellBot }}</td>
+            <td class="tg-031e">{{ c.buyPrice | currency }}</td>
+            <td class="tg-031e">{{ c.buyBot }}</td>
+            <td class="tg-031e">{{ c.sellShop }}</td>
+            <td class="tg-031e">{{ c.buyShop }}</td>
+        </tr>
+    </table>
+</div>
+
+<script>
+    var app = angular.module('myFE', []);
+    app.controller('cardsCtrl', function($scope, $http) {
+        $http.get("http://localhost:8080/rest/cards")
+                .success(function(response) {$scope.cards = response;});
+    });
+</script>
+
+</body>
+</html>

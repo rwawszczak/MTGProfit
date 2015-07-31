@@ -15,13 +15,13 @@ import java.util.List;
 @RestController
 public class AvailableController {
 
-    @RequestMapping("/shops")
+    @RequestMapping("/rest/shops")
     public List<Shop> shops()
     {
         return Lists.newArrayList(Shop.values());
     }
 
-    @RequestMapping("/expansions")
+    @RequestMapping("/rest/expansions")
     public List<Expansion> expansions()
     {
         return Lists.newArrayList(Expansion.values());
