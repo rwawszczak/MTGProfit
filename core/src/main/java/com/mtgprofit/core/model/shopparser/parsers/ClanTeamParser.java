@@ -62,7 +62,7 @@ public class ClanTeamParser implements ShopParser {
     }
 
     private Matcher getCardMatcher(String content) {
-        return Pattern.compile("\\[\"([^\"]+)\",\"[A-Z]\",\"\",\"\",\"([a-zA-Z0-9\\s\\(\\),]+)\"\\]").matcher(content);
+        return Pattern.compile("\\[\"([^\"]+)\",\"[A-Z]\",\"\",\"\",\"([a-zA-Z0-9\\s\\(\\),]*)\"\\]").matcher(content);
     }
 
     private Matcher getPriceMatcher(String content, int column, int cardId) {
