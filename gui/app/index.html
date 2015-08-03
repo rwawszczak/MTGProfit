@@ -29,30 +29,30 @@
         </div>
     </div>
 
-    <table class="tg" ng-if="cards.length>0" ng-hide="isLoading">
+    <table ng-if="cards.length>0" ng-hide="isLoading">
         <tr>
-            <th class="tg-031e">Index</th>
-            <th class="tg-031e">Profit</th>
-            <th class="tg-031e">Card name</th>
-            <th class="tg-031e">Expansion</th>
-            <th class="tg-031e">Sell</th>
-            <th class="tg-031e">Sell bot</th>
-            <th class="tg-031e">Buy</th>
-            <th class="tg-031e">Buy bot</th>
-            <th class="tg-031e">Sell shop</th>
-            <th class="tg-031e">Buy shop</th>
+            <th>Index</th>
+            <th>Profit</th>
+            <th>Card name</th>
+            <th>Expansion</th>
+            <th>Sell</th>
+            <th>Sell bot</th>
+            <th>Buy</th>
+            <th>Buy bot</th>
+            <th>Sell shop</th>
+            <th>Buy shop</th>
         </tr>
         <tr ng-repeat="c in cards">
-            <td class="tg-031e"><b>{{ $index + 1 }}</b></td>
-            <td class="tg-031e">{{ c.profit | currency }}</td>
-            <td class="tg-031e">{{ c.cardName }}</td>
-            <td class="tg-031e">{{ c.expansionName }}</td>
-            <td class="tg-031e">{{ c.sellPrice | currency }}</td>
-            <td class="tg-031e">{{ c.sellBot }}</td>
-            <td class="tg-031e">{{ c.buyPrice | currency }}</td>
-            <td class="tg-031e">{{ c.buyBot }}</td>
-            <td class="tg-031e">{{ c.sellShop }}</td>
-            <td class="tg-031e">{{ c.buyShop }}</td>
+            <td><b>{{ $index + 1 }}</b></td>
+            <td>{{ c.profit | currency }}</td>
+            <td>{{ c.cardName }}</td>
+            <td>{{ c.expansionName }}</td>
+            <td>{{ c.sellPrice | currency }}</td>
+            <td>{{ c.sellBot }}</td>
+            <td>{{ c.buyPrice | currency }}</td>
+            <td>{{ c.buyBot }}</td>
+            <td>{{ c.sellShop }}</td>
+            <td>{{ c.buyShop }}</td>
         </tr>
     </table>
     <div id="noData" class="bigInfo" ng-if="cards.length==0"><b>No profitable cards found.</b></div>
