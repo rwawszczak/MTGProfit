@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+<head>
+    <link rel="stylesheet" type="text/css" href="resources/style.css">
+</head>
 <body>
 
 <div ng-app="myFE" ng-controller="cardsCtrl">
 
-    <button type="button" ng-hide="isLoading" ng-click="refresh()">Refresh</button>
-    <div id="loading" ng-show="isLoading">Loading data...<img src="resources/loading.gif"></div>
-
-    <style type="text/css">
-        .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
-        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
-        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
-    </style>
-    <table class="tg" ng-if="cards.length>0">
+    <div class="bigInfo" ng-show="isLoading">Loading data...<img src="resources/loading.gif"></div>
+    <a class="button" ng-hide="isLoading" ng-click="refresh()">
+        <span>Refresh</span>
+    </a>
+    <table class="tg" ng-if="cards.length>0" ng-hide="isLoading">
         <tr>
             <th class="tg-031e">Index</th>
             <th class="tg-031e">Profit</th>
@@ -27,7 +26,7 @@
             <th class="tg-031e">Buy shop</th>
         </tr>
         <tr ng-repeat="c in cards">
-            <td class="tg-031e">{{ $index + 1 }}</td>
+            <td class="tg-031e"><b>{{ $index + 1 }}</b></td>
             <td class="tg-031e">{{ c.profit | currency }}</td>
             <td class="tg-031e">{{ c.cardName }}</td>
             <td class="tg-031e">{{ c.expansionName }}</td>
@@ -39,8 +38,7 @@
             <td class="tg-031e">{{ c.buyShop }}</td>
         </tr>
     </table>
-    <div id="notLoaded" ng-if="cards.length == undefined"><b>No data loaded, please refresh.</b></div>
-    <div id="noData" ng-if="cards.length==0"><b>No data found.</b></div>
+    <div id="noData" class="bigInfo" ng-if="cards.length==0"><b>No profitable cards found.</b></div>
 </div>
 
 <script>
@@ -55,6 +53,7 @@
                         $scope.isLoading = false;
                     });
         };
+        $scope.refresh();
     });
 </script>
 
