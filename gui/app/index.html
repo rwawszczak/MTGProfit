@@ -5,12 +5,15 @@
 
 <div ng-app="myFE" ng-controller="cardsCtrl">
 
+    <button type="button" ng-hide="isLoading" ng-click="refresh()">Refresh</button>
+    <div id="loading" ng-show="isLoading">Loading data...<img src="resources/loading.gif"></div>
+
     <style type="text/css">
         .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
         .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
         .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
     </style>
-    <table class="tg">
+    <table class="tg" ng-if="cards.length>0">
         <tr>
             <th class="tg-031e">Index</th>
             <th class="tg-031e">Profit</th>
@@ -36,13 +39,22 @@
             <td class="tg-031e">{{ c.buyShop }}</td>
         </tr>
     </table>
+    <div id="notLoaded" ng-if="cards.length == undefined"><b>No data loaded, please refresh.</b></div>
+    <div id="noData" ng-if="cards.length==0"><b>No data found.</b></div>
 </div>
 
 <script>
     var app = angular.module('myFE', []);
     app.controller('cardsCtrl', function($scope, $http) {
-        $http.get("http://localhost:8080/rest/cards")
-                .success(function(response) {$scope.cards = response;});
+        $scope.isLoading = false;
+        $scope.refresh = function() {
+            $scope.isLoading = true;
+            $http.get("http://localhost:8080/rest/cards")
+                    .success(function(response) {
+                        $scope.cards = response;
+                        $scope.isLoading = false;
+                    });
+        };
     });
 </script>
 
