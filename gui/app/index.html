@@ -12,6 +12,23 @@
     <a class="button" ng-hide="isLoading" ng-click="refresh()">
         <span>Refresh</span>
     </a>
+    <div class="lists shops">
+        <h1>Shops:</h1>
+        <p ng-repeat="s in shops">
+            <input type="checkbox" ng-model="$shopBoxes[s]" ng-init="$shopBoxes[s]=true">
+            <label>{{s}}</label>
+        </p>
+    </div>
+    <div class="lists expansions">
+        <h1>Expansions:</h1>
+        <div class="columns">
+            <div class="myCheckBox" ng-repeat="e in expansions">
+                    <input type="checkbox" ng-model="$expansionBoxes[e]" ng-init="$expansionBoxes[e]=true">
+                    <label>{{e}}</label>
+            </div>
+        </div>
+    </div>
+
     <table class="tg" ng-if="cards.length>0" ng-hide="isLoading">
         <tr>
             <th class="tg-031e">Index</th>
@@ -53,6 +70,14 @@
                         $scope.isLoading = false;
                     });
         };
+        $http.get("http://localhost:8080/rest/shops")
+                .success(function(response) {
+                    $scope.shops = response;
+                });
+        $http.get("http://localhost:8080/rest/expansions")
+                .success(function(response) {
+                    $scope.expansions = response;
+                });
         $scope.refresh();
     });
 </script>
