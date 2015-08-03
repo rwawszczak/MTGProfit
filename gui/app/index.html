@@ -15,7 +15,7 @@
     <div class="lists shops">
         <h1>Shops:</h1>
         <p ng-repeat="s in shops">
-            <input type="checkbox" ng-model="$shopBoxes[s]" ng-init="$shopBoxes[s]=true">
+            <input type="checkbox" ng-model="shopBoxes[s]" ng-init="shopBoxes[s]=true">
             <label>{{s}}</label>
         </p>
     </div>
@@ -23,7 +23,7 @@
         <h1>Expansions:</h1>
         <div class="columns">
             <div class="myCheckBox" ng-repeat="e in expansions">
-                    <input type="checkbox" ng-model="$expansionBoxes[e]" ng-init="$expansionBoxes[e]=true">
+                    <input type="checkbox" ng-model="expansionBoxes[e]" ng-init="expansionBoxes[e]=true">
                     <label>{{e}}</label>
             </div>
         </div>
